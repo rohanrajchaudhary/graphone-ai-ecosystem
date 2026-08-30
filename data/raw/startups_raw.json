@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Example Domain",
+    "description": null,
+    "website": "https://example.com/",
+    "industry": null,
+    "location": null,
+    "founded_year": null,
+    "source_url": "https://example.com/",
+    "collected_at": "2026-08-27T20:42:48.342475+00:00"
+  },
+  {
+    "name": "Example Domain",
+    "description": null,
+    "website": "https://example.org/",
+    "industry": null,
+    "location": null,
+    "founded_year": null,
+    "source_url": "https://example.org/",
+    "collected_at": "2026-08-27T20:42:48.523585+00:00"
+  },
+  {
+    "name": "Example Domain",
+    "description": null,
+    "website": "https://example.net/",
+    "industry": null,
+    "location": null,
+    "founded_year": null,
+    "source_url": "https://example.net/",
+    "collected_at": "2026-08-27T20:42:48.755279+00:00"
+  }
+]

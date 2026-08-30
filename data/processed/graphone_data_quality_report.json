@@ -1,0 +1,31 @@
+{
+  "researchPapers": {
+    "total": 1000,
+    "withSourceUrl": 1000,
+    "sourceCoverage": 100.0
+  },
+  "entities": {
+    "total": 977,
+    "aiRelevant": 959,
+    "withGithubUrl": 977,
+    "typeBreakdown": {
+      "ORGANIZATION": 271,
+      "OPEN_SOURCE_PROJECT": 501,
+      "PRODUCT": 129,
+      "STARTUP": 58,
+      "UNKNOWN": 18
+    }
+  },
+  "entityResolution": {
+    "resolved": 14,
+    "unresolved": 986,
+    "resolutionCoverage": 1.4
+  },
+  "freshData": {
+    "news": 2,
+    "newsSourcesConfigured": 5,
+    "jobSourcesConfigured": 5,
+    "jobSourcesChecked": 5,
+    "jobItems": 5
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2026-08-29T15:20:43.265000+00:00",
+  "freshnessWindow": {
+    "hours": 24,
+    "from": "2026-08-28T15:20:43.265000+00:00",
+    "to": "2026-08-29T15:20:43.265000+00:00"
+  },
+  "news": {
+    "sourcesConfigured": 5,
+    "articlesFound": 2,
+    "items": [
+      {
+        "type": "AI_NEWS",
+        "source": "TechCrunch AI",
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "publishedAt": "2026-08-29T07:30:00+00:00",
+        "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+        "collectedAt": "2026-08-29T15:20:43.265294+00:00"
+      },
+      {
+        "type": "AI_NEWS",
+        "source": "The Verge AI",
+        "title": "Musicians-turned-detectives are hunting for AI grifters",
+        "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+        "publishedAt": "2026-08-29T06:30:00+00:00",
+        "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+        "collectedAt": "2026-08-29T15:20:43.265294+00:00"
+      }
+    ]
+  },
+  "jobs": {
+    "sourcesConfigured": 5,
+    "sourcesChecked": 5,
+    "items": [
+      {
+        "source": "LinkedIn AI Jobs",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=AI",
+        "status": 200,
+        "accessible": true,
+        "checkedAt": "2026-08-29T15:20:49.974342+00:00"
+      },
+      {
+        "source": "Indeed AI Jobs",
+        "url": "https://www.indeed.com/jobs?q=AI",
+        "status": 403,
+        "accessible": false,
+        "checkedAt": "2026-08-29T15:20:50.607508+00:00"
+      },
+      {
+        "source": "Wellfound AI Jobs",
+        "url": "https://wellfound.com/jobs",
+        "status": 200,
+        "accessible": true,
+        "checkedAt": "2026-08-29T15:20:51.309801+00:00"
+      },
+      {
+        "source": "ZipRecruiter AI Jobs",
+        "url": "https://www.ziprecruiter.com/jobs-search?search=AI",
+        "status": 403,
+        "accessible": false,
+        "checkedAt": "2026-08-29T15:20:51.854398+00:00"
+      },
+      {
+        "source": "SimplyHired AI Jobs",
+        "url": "https://www.simplyhired.com/search?q=AI",
+        "status": 403,
+        "accessible": false,
+        "checkedAt": "2026-08-29T15:20:52.446133+00:00"
+      }
+    ]
+  }
+}

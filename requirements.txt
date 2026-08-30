@@ -1,0 +1,12 @@
+aiohttp
+beautifulsoup4
+lxml
+playwright
+pydantic
+python-dotenv
+tenacity
+dateparser
+rapidfuzz
+pandas
+openpyxl
+PyGithub

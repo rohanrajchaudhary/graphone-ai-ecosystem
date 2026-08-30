@@ -1,0 +1,56 @@
+{
+  "project": "GraphOne AI Ecosystem Data Pipeline",
+  "generatedAt": "2026-08-29T15:32:42.532382+00:00",
+  "files": [
+    {
+      "name": "graphone_final_dataset.json",
+      "sizeBytes": 2711108,
+      "sha256": "0900159d198177a0c2c7e9ef9b4b96e11d4824dad36cb1112e0e1d303b0f396b"
+    },
+    {
+      "name": "graphone_data_quality_report.json",
+      "sizeBytes": 622,
+      "sha256": "dc5a6754dd155170695c863323b99c30708c3c4f00d2a50a68e3cf9c9eab8e04"
+    },
+    {
+      "name": "graphone_submission_dataset.xlsx",
+      "sizeBytes": 749849,
+      "sha256": "9583aaf00bef7ff6674abbc077c5494594f8b8b84e5142b10c3432f836634885"
+    },
+    {
+      "name": "ai_entities_classified.json",
+      "sizeBytes": 1274395,
+      "sha256": "5cef226873adf23937bd2eab8014912af71d006fc567eda6ccbf1633e6917ee4"
+    },
+    {
+      "name": "entity_resolution.json",
+      "sizeBytes": 191224,
+      "sha256": "59a73e3d6a1c32d37aacd1a9468e976fb1554270f4a68ffe9e2225aa9c81c022"
+    },
+    {
+      "name": "entity_index.json",
+      "sizeBytes": 450413,
+      "sha256": "316f40f189b146bb4bf6ad938a934f46f534533940105e74fba8a85069d4855c"
+    },
+    {
+      "name": "research_papers_extracted.json",
+      "sizeBytes": 1883232,
+      "sha256": "702bd7a4714a9da65a633ed680e2fffee3454455d6e097a827eeb519fcd5ea91"
+    },
+    {
+      "name": "research_papers_linked.json",
+      "sizeBytes": 1916232,
+      "sha256": "9e26ad4ac5f7191edea82b80b976d497c626e7d903dae11bf5a3eba2b37c86eb"
+    },
+    {
+      "name": "startups_products_raw.json",
+      "sizeBytes": 923163,
+      "sha256": "d8d74a6d0aeb4c4d6895978d099855ef49656e0cdfad61dd7a3541c9237c3e34"
+    },
+    {
+      "name": "fresh_ai_data.json",
+      "sizeBytes": 2823,
+      "sha256": "4a2918ea9f0aad1e039908d498dad919cd0f0eeb2d0c676751919b3072282f7f"
+    }
+  ]
+}

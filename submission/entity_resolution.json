@@ -1,0 +1,4086 @@
+{
+  "datasetType": "GRAPHONE_ENTITY_RESOLUTION",
+  "method": "EXACT_URL_AND_CONSERVATIVE_METADATA_MATCH",
+  "statistics": {
+    "researchPapers": 1000,
+    "githubEntities": 977,
+    "resolved": 14,
+    "unresolved": 986,
+    "exactMatches": 0,
+    "strongMetadataMatches": 14
+  },
+  "paperEntityLinks": [
+    {
+      "paperTitle": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26086v1",
+      "githubUrl": "https://github.com/timzhang642/3D-Machine-Learning",
+      "entityName": "3D-Machine-Learning",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7333
+    },
+    {
+      "paperTitle": "Toward Machine Learning with the Unit as a Primitive: Learning from Unit-Linked Events",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25118v1",
+      "githubUrl": "https://github.com/timzhang642/3D-Machine-Learning",
+      "entityName": "3D-Machine-Learning",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7429
+    },
+    {
+      "paperTitle": "Method, Mind, and Morality: How People Make Sense of Artificial Intelligence",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24748v1",
+      "githubUrl": "https://github.com/yanshengjia/artificial-intelligence",
+      "entityName": "artificial-intelligence",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7333
+    },
+    {
+      "paperTitle": "Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24042v1",
+      "githubUrl": "https://github.com/pytorch/vision",
+      "entityName": "vision",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7208
+    },
+    {
+      "paperTitle": "Machine Learning Assisted Inverse Design of Pixelated mmWave Patch Antennas",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23469v1",
+      "githubUrl": "https://github.com/timzhang642/3D-Machine-Learning",
+      "entityName": "3D-Machine-Learning",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7333
+    },
+    {
+      "paperTitle": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23643v1",
+      "githubUrl": "https://github.com/yanshengjia/artificial-intelligence",
+      "entityName": "artificial-intelligence",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.73
+    },
+    {
+      "paperTitle": "MCP-Universe RL: A Framework for Training MCP Tool-Use Agents via Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22167v1",
+      "githubUrl": "https://github.com/Unity-Technologies/ml-agents",
+      "entityName": "ml-agents",
+      "entityType": "STARTUP",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7238
+    },
+    {
+      "paperTitle": "Improving Energy Efficiency of Oil Platforms Through Optimal Loading of Diesel Generators Using Machine Learning and Search Algorithms",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22076v1",
+      "githubUrl": "https://github.com/timzhang642/3D-Machine-Learning",
+      "entityName": "3D-Machine-Learning",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7231
+    },
+    {
+      "paperTitle": "TASSO: TAsk-Specific Subspace Optimization for Continual Learning of Vision-Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21487v1",
+      "githubUrl": "https://github.com/pytorch/vision",
+      "entityName": "vision",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.775
+    },
+    {
+      "paperTitle": "Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20271v1",
+      "githubUrl": "https://github.com/timzhang642/3D-Machine-Learning",
+      "entityName": "3D-Machine-Learning",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7333
+    },
+    {
+      "paperTitle": "A Standardized Framework for Machine Learning in Power System Protection",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20181v1",
+      "githubUrl": "https://github.com/timzhang642/3D-Machine-Learning",
+      "entityName": "3D-Machine-Learning",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7429
+    },
+    {
+      "paperTitle": "LoRA-GA$^2$: Low Rank Adaptation with Multi-step Gradient Adaptive Alignment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19800v1",
+      "githubUrl": "https://github.com/microsoft/LoRA",
+      "entityName": "LoRA",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.7656
+    },
+    {
+      "paperTitle": "DeltaML-Bench: Evaluating Machine Learning Agents on Real-World Research Repositories",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19653v1",
+      "githubUrl": "https://github.com/timzhang642/3D-Machine-Learning",
+      "entityName": "3D-Machine-Learning",
+      "entityType": "OPEN_SOURCE_PROJECT",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.73
+    },
+    {
+      "paperTitle": "When Machines Speak: A Unified Generative Framework for Integrating Machine-Native Symbols into Pretrained Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19529v1",
+      "githubUrl": "https://github.com/Stability-AI/generative-models",
+      "entityName": "generative-models",
+      "entityType": "ORGANIZATION",
+      "matchType": "STRONG_METADATA_MATCH",
+      "matchScore": 0.75
+    }
+  ],
+  "unresolvedPapers": [
+    {
+      "paperTitle": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26105v1"
+    },
+    {
+      "paperTitle": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26095v1"
+    },
+    {
+      "paperTitle": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26094v1"
+    },
+    {
+      "paperTitle": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26090v1"
+    },
+    {
+      "paperTitle": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26088v1"
+    },
+    {
+      "paperTitle": "ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26083v1"
+    },
+    {
+      "paperTitle": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26081v1"
+    },
+    {
+      "paperTitle": "Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26074v1"
+    },
+    {
+      "paperTitle": "Prefix Sliding for efficient test-time scaling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26070v1"
+    },
+    {
+      "paperTitle": "$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26053v1"
+    },
+    {
+      "paperTitle": "How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26052v1"
+    },
+    {
+      "paperTitle": "The Value of Human Expertise",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26051v1"
+    },
+    {
+      "paperTitle": "Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26036v1"
+    },
+    {
+      "paperTitle": "DualOPSD: Adaptive Privileged Teachers for On-Policy Self-Distillation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26019v1"
+    },
+    {
+      "paperTitle": "Imitation Learning for Connection-Tableau Construction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26009v1"
+    },
+    {
+      "paperTitle": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26005v1"
+    },
+    {
+      "paperTitle": "AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.26004v1"
+    },
+    {
+      "paperTitle": "ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25992v1"
+    },
+    {
+      "paperTitle": "Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25986v1"
+    },
+    {
+      "paperTitle": "FRAME: separating sampling variation from representational cause in medical imaging fairness",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25981v1"
+    },
+    {
+      "paperTitle": "SciMIF: Understanding Multimodal Instruction Following in Scientific Domains",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25973v1"
+    },
+    {
+      "paperTitle": "PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25970v1"
+    },
+    {
+      "paperTitle": "Quantitative Analysis of $ω$-Regular Robust MDPs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25968v1"
+    },
+    {
+      "paperTitle": "LivingRAG: Augmenting Graph RAG with Experience",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25960v1"
+    },
+    {
+      "paperTitle": "A Statistical Audit of Physical AI Benchmark Redundancy",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25940v1"
+    },
+    {
+      "paperTitle": "Candidate supply and answer selection shape the value of LLM judging in multi-agent systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25937v1"
+    },
+    {
+      "paperTitle": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25936v1"
+    },
+    {
+      "paperTitle": "TAU-Agent: An Agentic Retrieval-Augmented Framework for Traffic Anomaly Understanding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25935v1"
+    },
+    {
+      "paperTitle": "How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25934v1"
+    },
+    {
+      "paperTitle": "When Composition Doesn't Add Up: Humans Identifying Defects in AI-Generated Images",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25933v1"
+    },
+    {
+      "paperTitle": "Code World Model: Coding Agent as World Brain",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25927v1"
+    },
+    {
+      "paperTitle": "Formal, Executable and Explainable Runtime Monitoring of Spoken Air Traffic Control Operational Procedures",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25926v1"
+    },
+    {
+      "paperTitle": "Query-Side Attacks on GNN-Based KGQA: Tracing Failures from Entity Linking to Answer Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25922v1"
+    },
+    {
+      "paperTitle": "Repair or Resample? Rethinking Failure Debugging in LLM Multi-Agent Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25920v1"
+    },
+    {
+      "paperTitle": "Choose Your Game Wisely: Measuring Game-Theoretic Structures in Real-World Vehicle Interactions",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25917v1"
+    },
+    {
+      "paperTitle": "Towards A Unified Information Bottleneck Framework for Time Series Explanations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25897v1"
+    },
+    {
+      "paperTitle": "Unlocking Multimodal Protein Language Models at Inference Time",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25855v1"
+    },
+    {
+      "paperTitle": "Why ML-based cough models do not generalize: a systematic cross-dataset evaluation for tuberculosis screening",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25846v1"
+    },
+    {
+      "paperTitle": "VINCENT: Validated Interaction Network for Cross-drug Explanation of Therapeutics",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25841v1"
+    },
+    {
+      "paperTitle": "Missing the Butterfly and Predicting the Past: Features or Bugs of Accurate AI Weather Models?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25835v1"
+    },
+    {
+      "paperTitle": "Skill Issue: Are Skills Language-Invariant in LLMs?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25832v1"
+    },
+    {
+      "paperTitle": "Unfolding Scientific Papers into Multi-Turn Generation Trajectories for Continued Pre-Training",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25826v1"
+    },
+    {
+      "paperTitle": "LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25777v1"
+    },
+    {
+      "paperTitle": "EVOMAL: Self-Poisoning in Self-Evolving Coding Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25776v1"
+    },
+    {
+      "paperTitle": "ToST: A Tree-of-Thought Socratic Teaching Framework for Multi-Path Guidance and Parallel Thinking",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25775v1"
+    },
+    {
+      "paperTitle": "MoganBert-TR: A Turkish Encoder Foundation Model Trained from Scratch with a CLM-to-MLM Curriculum",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25768v1"
+    },
+    {
+      "paperTitle": "Beam Search, Self-Consistency, and the Limits of Inference-Time Scaling for Grammar-Constrained Text-to-SQL in Small Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25761v1"
+    },
+    {
+      "paperTitle": "TailSFT: Filtered Fine-Tuning Improves Post-Training Performance",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25756v1"
+    },
+    {
+      "paperTitle": "MeMark: Membrane-Space Watermarking for Spiking Neural Networks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25738v1"
+    },
+    {
+      "paperTitle": "Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25735v1"
+    },
+    {
+      "paperTitle": "It's a matter of timescale: non-linear utility in successor features and multi-objective planning and learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25723v1"
+    },
+    {
+      "paperTitle": "When RAG Fails to Equalize: Geo-bias in Factual Question Answering over Public Companies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25717v1"
+    },
+    {
+      "paperTitle": "Difficulty-Aware Sample Allocation for Adaptive Data Augmentation in Semantic Segmentation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25710v1"
+    },
+    {
+      "paperTitle": "Unsupervised Anatomical Feature Learning via Diffusion Models: Enhanced Medical Image Segmentation with Denoising Diffusion Probabilistic Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25693v1"
+    },
+    {
+      "paperTitle": "Learning New Facts with QLoRA: An Acquisition-Retention Frontier",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25677v1"
+    },
+    {
+      "paperTitle": "AI Slop and Hallucinations in Vulnerability Assessment: A Survey on Reasoning Failures and Trustworthy Mitigation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25667v1"
+    },
+    {
+      "paperTitle": "Data Citation for Large Language Models: A Challenge",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25663v1"
+    },
+    {
+      "paperTitle": "From General Agents to RCA Experts: A Self-Evolving Harness for Root Cause Analysis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25661v1"
+    },
+    {
+      "paperTitle": "Think-Probe-Respond: Improving Large Language Models as Judges of Research Idea Novelty",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25660v1"
+    },
+    {
+      "paperTitle": "Narcissus: Program Synthesis Using Context-Aware LLM Approximations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25657v1"
+    },
+    {
+      "paperTitle": "Reconstructing the Right Episode: Evaluating Interleaved Conversational Memory Beyond Long Context",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25655v1"
+    },
+    {
+      "paperTitle": "Unmatched Does Not Mean False: Incomplete Reference Sets Can Reverse Calibration Rankings in Open-Ended Theory-of-Mind Tracking",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25654v1"
+    },
+    {
+      "paperTitle": "LDAC-Net: A Learnable Multi-Lag Differencing Attention-Convolution Network for Drift-Robust Recognition with Low-Cost MOX Gas Sensors",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25646v1"
+    },
+    {
+      "paperTitle": "Leveraging Inter-object Affordances for Efficient Planning in Contact-rich Tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25641v1"
+    },
+    {
+      "paperTitle": "Using profiles of cognitive capability to assess AI suitability for workplace tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25623v1"
+    },
+    {
+      "paperTitle": "Dissonance Spectrum explicitly models perceptual frequency interactions for better music understanding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25621v1"
+    },
+    {
+      "paperTitle": "A Dual-Transformer for Multi-Camera View Recommendation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25601v1"
+    },
+    {
+      "paperTitle": "A Hierarchical Synergistic Deep Learning Framework Integrating Composition, Structure, and Ionic Transport for Solid-State Electrolyte Discovery",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25592v1"
+    },
+    {
+      "paperTitle": "Are Concept Bottleneck Models Effective as Decision-Support Systems?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25581v1"
+    },
+    {
+      "paperTitle": "V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25580v1"
+    },
+    {
+      "paperTitle": "PolyMemDB: A Polyglot Database System for AI Memory Management",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25577v1"
+    },
+    {
+      "paperTitle": "MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25575v1"
+    },
+    {
+      "paperTitle": "ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25572v1"
+    },
+    {
+      "paperTitle": "Controllable Affective Generation via Latent Vector Steering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25569v1"
+    },
+    {
+      "paperTitle": "CrossMambaTuning: Synergistic Spatial and Cross-Layer Adaptation for Machine Vision Compression",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25568v1"
+    },
+    {
+      "paperTitle": "Physics-Informed Foresight Pruning for Sparse PINN Solvers of Nonlinear PDEs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25564v1"
+    },
+    {
+      "paperTitle": "AdaVDR: Adaptive Tool Use and Reflection for Video Deep Research",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25559v1"
+    },
+    {
+      "paperTitle": "When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25553v1"
+    },
+    {
+      "paperTitle": "A Hybrid Usability Approach for Rating Evaluation of M-Commerce Applications",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25550v1"
+    },
+    {
+      "paperTitle": "A Tendon-Driven Five-Fingered Hand with Distributed Tactile Perception for Dexterous Manipulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25547v1"
+    },
+    {
+      "paperTitle": "Goodput Maximization for Large Language Model Edge Inference: A Two-Phase Maskable PPO Approach",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25543v1"
+    },
+    {
+      "paperTitle": "Syn2Logic: End-to-End Neuromorphic Design Automation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25536v1"
+    },
+    {
+      "paperTitle": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25518v1"
+    },
+    {
+      "paperTitle": "CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25500v1"
+    },
+    {
+      "paperTitle": "Pose-Anchored Optical Flow for Low-Latency Human Action Anticipation in Human-Robot Teaming",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25495v1"
+    },
+    {
+      "paperTitle": "MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25490v1"
+    },
+    {
+      "paperTitle": "PonsRAG: A Pons-Inspired RAG Bridging Cognitive Islands for Coordinated Long Narrative Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25486v1"
+    },
+    {
+      "paperTitle": "DeCO: Discriminative Evidence Composition for Fine-Grained Dataset Distillation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25480v1"
+    },
+    {
+      "paperTitle": "4DStreamCtrl: Interactive Video Generation with Online 4D Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25479v1"
+    },
+    {
+      "paperTitle": "Homo-RAG: Homology-Guided Retrieval-Augmented Generation for Cross-Species Gene Function Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25466v1"
+    },
+    {
+      "paperTitle": "Automatic weld seam segmentation for industrial quality control: a comparison of RGB and polarimetric imaging with CNN and transformer architectures",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25465v1"
+    },
+    {
+      "paperTitle": "Training Alignment Auditors via Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25460v1"
+    },
+    {
+      "paperTitle": "MACGen: Toward Functionally Correct and Secure Code Generation via Multi-Agent Collaboration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25457v1"
+    },
+    {
+      "paperTitle": "VGA-BenchV2: An Expanded Unified Benchmark and Multi-Model Framework for Evaluating Video Aesthetics and Generation Quality",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25452v1"
+    },
+    {
+      "paperTitle": "MathAdv: What Theorem Provers Know, Reason, Formalize, and Generalize",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25449v1"
+    },
+    {
+      "paperTitle": "Saliency-Depth Conditioning for Zero-Shot Segmentation of Communication-Tower Components in Cluttered UAV Imagery",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25435v1"
+    },
+    {
+      "paperTitle": "Distance Is Not Enough: Forget-Retain Alignment Gap Predicts LLM Relearning Robustness",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25429v1"
+    },
+    {
+      "paperTitle": "DCGC: Draft-Conditioned Global Correction for Complex Reasoning with Masked Diffusion Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25428v1"
+    },
+    {
+      "paperTitle": "RotDroid: Cross-Orientation State Equivalence Testing for Detecting GUI Rotation Bugs in Android Apps",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25425v1"
+    },
+    {
+      "paperTitle": "Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25417v1"
+    },
+    {
+      "paperTitle": "Token-Oriented Semantic Communication with Pretrained Vision Transformers",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25410v1"
+    },
+    {
+      "paperTitle": "PIVOT: A Multi-Trajectory Dataset and Testbed for Pose, Intrinsics, and Novel Viewpoint Evaluation in Real-World 3D Reconstruction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25401v1"
+    },
+    {
+      "paperTitle": "Can your AI agent be cheaper? Investigating the effects of task specifications on token spend in agentic coding tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25399v1"
+    },
+    {
+      "paperTitle": "Refusal geometry reflects refusal training: diverse refusal prefixes can raise stable rank and weaken refusal vector ablation attacks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25390v1"
+    },
+    {
+      "paperTitle": "Q&A or Document-Based? The Effects of Interface Type on How Screen Reader Users Access Interconnected Documents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25382v1"
+    },
+    {
+      "paperTitle": "Adaptive Triggering for Bias Correction in LLM Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25379v1"
+    },
+    {
+      "paperTitle": "CRAMER: Control via Request-Aware Masking for Editing Recommenders",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25370v1"
+    },
+    {
+      "paperTitle": "Where vs What: Decomposing Structural and Content Failures in LLM-Generated Structured Outputs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25358v1"
+    },
+    {
+      "paperTitle": "Escaping Low-Dimensional Overlap: Multi-Task Model Merging via High-Dimensional Sparse Disentanglement",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25354v1"
+    },
+    {
+      "paperTitle": "CoRE: Weakly Supervised Coarse-to-Fine Risk Evidence Learning in Driving Videos",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25344v1"
+    },
+    {
+      "paperTitle": "Learning What to Share and What to Personalize: Hierarchical Strategy Co-Evolution for Agent Memory",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25329v1"
+    },
+    {
+      "paperTitle": "Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25327v1"
+    },
+    {
+      "paperTitle": "FinRiskAtlas: Decision-Aligned Evaluation of Large Language Models for Financial Risk Review",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25325v1"
+    },
+    {
+      "paperTitle": "LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25321v1"
+    },
+    {
+      "paperTitle": "InsightSR: Refining Symbolic Regression Search Spaces via Parallel Semantic and Structural LLM Guidance",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25291v1"
+    },
+    {
+      "paperTitle": "Combining Self-Embedding Audio Watermarking with Ultra-Low-Bitrate Neural Codecs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25289v1"
+    },
+    {
+      "paperTitle": "BixBench3: Benchmarking AI agents on research-study-scale computational biology tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25286v1"
+    },
+    {
+      "paperTitle": "A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25285v1"
+    },
+    {
+      "paperTitle": "Generative Action-Chunk Sampling for Adaptive Stiffness Control in Physical Human-Robot Collaboration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25284v1"
+    },
+    {
+      "paperTitle": "SHSP: Structure-Aware Hierarchical Solution Prediction for Mixed-Integer Linear Programming",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25282v1"
+    },
+    {
+      "paperTitle": "Routed Graph Handoff: Adaptive Format Selection for Multi-Agent LLM Delegation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25277v1"
+    },
+    {
+      "paperTitle": "PhaseShift: Topology-Aware Data Harmonization and Model Consolidation Across Signalized Intersections",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25275v1"
+    },
+    {
+      "paperTitle": "Hierarchical MoE for Multi-Modal ILD Diagnosis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25261v1"
+    },
+    {
+      "paperTitle": "Neural-Bayesian Structure Learning for Discrete Choice Modeling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25258v1"
+    },
+    {
+      "paperTitle": "What Do Medical Vision-Language Models Learn in Radiology? Transfer, Alignment, and Source-Proxy Leakage Under Distribution Shift",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25251v1"
+    },
+    {
+      "paperTitle": "A Few Pages of Markdown: Committed AI Configuration and Lower Quality Cost after Coding-Agent Adoption",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25241v1"
+    },
+    {
+      "paperTitle": "Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution over Patient Benefit in Decision-Making",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25236v1"
+    },
+    {
+      "paperTitle": "Output Dilution: Redundant but Fragile Representations in MoE Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25231v1"
+    },
+    {
+      "paperTitle": "FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25220v1"
+    },
+    {
+      "paperTitle": "LLM-Driven, Datasheet-Aware Automated Hardware Compatibility Verification for Early-Stage, Pre-Schematic Embedded System Design",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25217v1"
+    },
+    {
+      "paperTitle": "Federation Is Nearly Free, Reasoning Is Not: Tradeoffs for AI Co-Scientists in Protein Characterization Workflows",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25215v1"
+    },
+    {
+      "paperTitle": "SPECMINE: A Large-Scale Corpus of Spec-Driven Development Artifacts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25202v1"
+    },
+    {
+      "paperTitle": "Learning Mixtures of Plackett-Luce Models for Multi-Objective Alignment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25200v1"
+    },
+    {
+      "paperTitle": "Hyperbolic Latent Geometry for Tree-Structured Prototype Networks: A Local-vs-Global Trade-off",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25199v1"
+    },
+    {
+      "paperTitle": "Tunable Tool-Call Rates in LLM Agents via Representation Steering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25198v1"
+    },
+    {
+      "paperTitle": "Self-Explanation Tutor for Active Study of CS1 Worked Examples",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25180v1"
+    },
+    {
+      "paperTitle": "Lightweight Machine Learning-Driven Monocular Sidewalk Path Extraction for Embedded Micromobility Navigation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25178v1"
+    },
+    {
+      "paperTitle": "AudioLens: Multi-Perspective Speech Clustering with Reasoning Audio-Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25177v1"
+    },
+    {
+      "paperTitle": "Bayesian Flow Networks for Offline Trajectory Planning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25163v1"
+    },
+    {
+      "paperTitle": "FuzzingBrain-Bench V1: Evaluating Open-Ended Bug Discovery by LLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25158v1"
+    },
+    {
+      "paperTitle": "Belief Cascades Drive Persuasion in LLM Agent Networks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25152v1"
+    },
+    {
+      "paperTitle": "Can You Trust Frozen Hematology Foundation Models under Acquisition Shift?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25148v1"
+    },
+    {
+      "paperTitle": "SkyDrive: Learning to Drive in a New City from Aerial Traffic Monitoring",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25142v1"
+    },
+    {
+      "paperTitle": "Drift Variation Autoencoder: Unifying Generation and Representation Learning through Conditional Posterior Flow Matching",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25138v1"
+    },
+    {
+      "paperTitle": "When Does Context Routing Help? A Systematic Study of Multi-Modal Fusion in Time Series Forecasting",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25128v1"
+    },
+    {
+      "paperTitle": "SelfGraphRAG: Bridging the Supervision Gap in Graph-Based RAG with Synthetic QA Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25123v1"
+    },
+    {
+      "paperTitle": "GRAPE: Gradient Refinement and Progress-Aware Exploitation for Query-Efficient High-Dimensional Bayesian Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25116v1"
+    },
+    {
+      "paperTitle": "Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25114v1"
+    },
+    {
+      "paperTitle": "Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25100v1"
+    },
+    {
+      "paperTitle": "PhysElite: How Far Are LLMs from Solving Olympiad-Level Physics Problems?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25097v1"
+    },
+    {
+      "paperTitle": "Understanding the Energy Scaling of Large Language Model Inference Across Context Lengths and Attention Architectures",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25096v1"
+    },
+    {
+      "paperTitle": "Auto-Policy, not Auto-Skill: Compiled Agent Skills for the Physical World",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25091v1"
+    },
+    {
+      "paperTitle": "The Von-Neumann State-Space Transformer for neural decoding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25088v1"
+    },
+    {
+      "paperTitle": "NVExplain: Explaining Time Series Forecasting with Latent Trajectory Analysis and Structure-Preserving Surrogates",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25080v1"
+    },
+    {
+      "paperTitle": "DeMMO: Longitudinal and Cross-Disease Modelling of Digital Mobility Outcomes via Multi-Task Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25073v1"
+    },
+    {
+      "paperTitle": "HealthBench-Psych: A Mental Health Subset of OpenAI's HealthBench",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25071v1"
+    },
+    {
+      "paperTitle": "SimVerity: When Does Simulated Agent Success Survive Physical Deployment?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25067v1"
+    },
+    {
+      "paperTitle": "FLINT: Efficiently Leveraging High Bandwidth Flash for Capacity-Scalable LLM Inference Acceleration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25062v1"
+    },
+    {
+      "paperTitle": "DataKernelBench: Can LLMs Optimize Database Queries on GPUs?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25061v1"
+    },
+    {
+      "paperTitle": "SPECTRA: Subspace-Preserving Embedding Calibration, Transport, and Replay for Fully Few-Shot Class-Incremental Audio Classification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25054v1"
+    },
+    {
+      "paperTitle": "Hydra: Phase-Aware Workload Characterization of LLM Inference across Edge SoC Generations, Backends, and Quantization Levels",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25053v1"
+    },
+    {
+      "paperTitle": "ARISMA: Guidelines for AI- and LLM-Assisted Systematic Reviews, Scoping Reviews, and Mapping Studies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25050v1"
+    },
+    {
+      "paperTitle": "LifePlanner: Evaluating LLM Agents for Geo-spatial Planning with Social Media Data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25039v1"
+    },
+    {
+      "paperTitle": "Retrieve, Match, Escalate: Accurate and Scalable Product Linking with VLM-Distilled Cross-Encoders and Agentic VLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25037v1"
+    },
+    {
+      "paperTitle": "CVE-SAI: Counterfactual Visual Evidence-Guided Selective Attribute Indexing for Risk-Controlled E-commerce Search",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25023v1"
+    },
+    {
+      "paperTitle": "A Primer on Computational Semantics for Artificial Intelligence Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.25022v1"
+    },
+    {
+      "paperTitle": "Does Fine-Tuning Undo Activation Steering? Behavioural Recovery Without Weight-Edit Reversal",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24988v1"
+    },
+    {
+      "paperTitle": "D$^3$-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24987v1"
+    },
+    {
+      "paperTitle": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24876v1"
+    },
+    {
+      "paperTitle": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24870v1"
+    },
+    {
+      "paperTitle": "FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24846v1"
+    },
+    {
+      "paperTitle": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24845v1"
+    },
+    {
+      "paperTitle": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24842v1"
+    },
+    {
+      "paperTitle": "Solving Robust POMDPs with Omega-regular Objectives via Partially Observable Stochastic Games",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24986v1"
+    },
+    {
+      "paperTitle": "A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24825v1"
+    },
+    {
+      "paperTitle": "Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24824v1"
+    },
+    {
+      "paperTitle": "Unsupervised Post-Training of Foundation Models: A Survey",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24982v1"
+    },
+    {
+      "paperTitle": "Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24810v1"
+    },
+    {
+      "paperTitle": "FrontierChallenge: Evaluating Scientific Workflow Completion",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24979v1"
+    },
+    {
+      "paperTitle": "Automatic Model Card Generation Using an LLM",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24807v1"
+    },
+    {
+      "paperTitle": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24804v1"
+    },
+    {
+      "paperTitle": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24794v1"
+    },
+    {
+      "paperTitle": "Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24790v1"
+    },
+    {
+      "paperTitle": "StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24777v1"
+    },
+    {
+      "paperTitle": "Ensemble of Convolutional Neural Networks for StrokePrediction: Towards Improved Diagnostic Accuracy",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24771v1"
+    },
+    {
+      "paperTitle": "Score-Based Ideal Observer Approximation via Denoising Score Matching for Signal-Known-Exactly Detection Tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24768v1"
+    },
+    {
+      "paperTitle": "Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24764v1"
+    },
+    {
+      "paperTitle": "Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24762v1"
+    },
+    {
+      "paperTitle": "RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24758v1"
+    },
+    {
+      "paperTitle": "The RAT: A Unified Bayesian Model for RAG Evaluation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24753v1"
+    },
+    {
+      "paperTitle": "Meta$^n$: Recursive Self-Improvement through Emergent Depth",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24735v1"
+    },
+    {
+      "paperTitle": "Parameter-Efficient Self-Supervised Adaptation for EEG-FM under Fixed Computational Budgets",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24727v1"
+    },
+    {
+      "paperTitle": "Enhancing Bayesian Optimization and Active Learning Through Kernel Diversity",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24721v1"
+    },
+    {
+      "paperTitle": "Deep Learning Super Resolution for Satellite Cloud Mask Downscaling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24715v1"
+    },
+    {
+      "paperTitle": "Lifted Model Construction under Approximate Commutativity",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24713v1"
+    },
+    {
+      "paperTitle": "Constrained Hyperparameter Optimization for Streaming Data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24712v1"
+    },
+    {
+      "paperTitle": "On-policy Distillation with Verifiable Reward",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24696v1"
+    },
+    {
+      "paperTitle": "Confident at the moment of action: belief miscalibration in LLM play under hidden information",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24691v1"
+    },
+    {
+      "paperTitle": "Maia 200: A Software Defined Dataflow System for Large-scale AI Acceleration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24664v1"
+    },
+    {
+      "paperTitle": "The Invisible Editorial Layer: Formalizing Undisclosed Inference-Time Steering, Probability Placement, and the Attribution Problem in Deployed Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24662v2"
+    },
+    {
+      "paperTitle": "Parason: Revealing Subtask and Trial Parallelism in LLM Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24658v1"
+    },
+    {
+      "paperTitle": "Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24650v2"
+    },
+    {
+      "paperTitle": "Clearing the Underbrush: AI-Enhanced RF Interference Suppression",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24974v1"
+    },
+    {
+      "paperTitle": "A Literate Programming Environment for Human and Machine Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24644v1"
+    },
+    {
+      "paperTitle": "Causal Modelling of Support Interventions for Student Competency Assessment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24632v1"
+    },
+    {
+      "paperTitle": "Taming foundation model with invariance-oriented pre-training for broad-spectrum EEG analysis across signal-level, brain-state, and brain-health tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24597v1"
+    },
+    {
+      "paperTitle": "Pivot-and-Station Multi-Agent Path Finding: Solvability, Complexity, and Algorithms",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24585v1"
+    },
+    {
+      "paperTitle": "$\\texttt{findr}$: Transparent and Fair Credit Risk Decisions through Semi-Structured Regressions",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24582v1"
+    },
+    {
+      "paperTitle": "PhysMLLMs: Spatial Priors for Unified Referring Segmentation and Grounded Reasoning of Images and Videos",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24574v1"
+    },
+    {
+      "paperTitle": "Joint Optimization of Tool Creation and Use for Large Language Model Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24571v1"
+    },
+    {
+      "paperTitle": "EviDx: Evidence-Aware Active Diagnosis with Scaffolded LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24570v1"
+    },
+    {
+      "paperTitle": "When \"Must\" Becomes \"Maybe\": Constraint Weakening in LLM Agent Workflows",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24569v1"
+    },
+    {
+      "paperTitle": "Across the Loss Landscape with Progressive Growth",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24568v1"
+    },
+    {
+      "paperTitle": "COCI: Conference Organisers and Content Identifier",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24559v1"
+    },
+    {
+      "paperTitle": "StrokeGuard: A Multi-Agent Guided System for Prehospital Stroke Assessment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24555v1"
+    },
+    {
+      "paperTitle": "FraudBench: Protocol-Sensitive Benchmarking of Adversarial Robustness for Financial Risk Assessment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24551v1"
+    },
+    {
+      "paperTitle": "Discovering Adaptive Transmission Programs for Collective Innovation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24545v1"
+    },
+    {
+      "paperTitle": "Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24534v1"
+    },
+    {
+      "paperTitle": "LumiXAI: A Modular Full-Stack Framework for Feature Attribution",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24524v1"
+    },
+    {
+      "paperTitle": "PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24509v1"
+    },
+    {
+      "paperTitle": "Scalable and Versatile Identification for Hierarchical Structural Causal Models: A New Look at Project STAR",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24500v1"
+    },
+    {
+      "paperTitle": "When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24492v1"
+    },
+    {
+      "paperTitle": "Beyond Static Interpretability: Anticipating Post-SFT Mechanisms from Pre-SFT Parameters for Better Tuning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24482v1"
+    },
+    {
+      "paperTitle": "Implicit Q-learning-bootstrapped ant colony optimization for maritime moving-target observation scheduling with agile satellites",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24471v1"
+    },
+    {
+      "paperTitle": "Reinforcement Learning-Guided Evolutionary Policy Optimization for Preference-Adjustable Heterogeneous Agile Earth Observation Satellite Scheduling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24470v1"
+    },
+    {
+      "paperTitle": "HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learning for E-commerce Representation Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24467v1"
+    },
+    {
+      "paperTitle": "Mahalanobis-Based Multi-Head Attention for Complex State Propagation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24462v1"
+    },
+    {
+      "paperTitle": "A Behavior-Guided Online Probabilistic Forecasting Method for Electric vehicle Charging Loads",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24441v1"
+    },
+    {
+      "paperTitle": "Evaluating Deep Multivariate Imputation Models on Wearable Device Data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24436v1"
+    },
+    {
+      "paperTitle": "Partial Identification under Causal Orders by Linear Programming",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24427v1"
+    },
+    {
+      "paperTitle": "Resource-Efficient Pruning for Transformer via Low-Rank Importance Estimation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24973v1"
+    },
+    {
+      "paperTitle": "A Judge Should Know What Changed:Construct Validity for LLM-as-a-Judge Evaluation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24419v1"
+    },
+    {
+      "paperTitle": "ResiSpec: Enhancing Multi-Candidate Speculative Sampling via Residual Distribution Shaping",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24411v1"
+    },
+    {
+      "paperTitle": "Multilevel Fair Allocation under Additive Preferences",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24400v1"
+    },
+    {
+      "paperTitle": "Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24386v1"
+    },
+    {
+      "paperTitle": "Markerless Pose Estimation for Resistance Training Technique Assessment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24384v1"
+    },
+    {
+      "paperTitle": "Do Recipes Have Personas? Characterizing and Generating Creator Style in Attributed Procedural Graphs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24369v1"
+    },
+    {
+      "paperTitle": "From State to Action: OODA-Tool for Reliable Multi-Turn Tool Use",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24368v1"
+    },
+    {
+      "paperTitle": "Adaptive Influence Graphs for Failure Attribution in Multi-Agent Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24361v1"
+    },
+    {
+      "paperTitle": "The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24358v1"
+    },
+    {
+      "paperTitle": "Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24354v1"
+    },
+    {
+      "paperTitle": "FARCA: Fact-Aligned Reliability-Aware Credit Assignment for Reinforcement Learning with Factual Supervision",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24350v1"
+    },
+    {
+      "paperTitle": "Metadata-Aware Adaptation of a Generative Foundation Model for Conditional CMR Synthesis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24342v1"
+    },
+    {
+      "paperTitle": "Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24340v1"
+    },
+    {
+      "paperTitle": "Selective Regenerative Decoding: Trajectory-Level Intervention for Inference-Time Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24338v1"
+    },
+    {
+      "paperTitle": "SonarLLM: A Native Sonar--Optical Multimodal Large Language Model for Underwater Perception",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24325v1"
+    },
+    {
+      "paperTitle": "Can a Dynamic Internal Field Govern a Transformer's Cognition? Certifiability, not Superiority, in Homeostatic Compute Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24319v1"
+    },
+    {
+      "paperTitle": "Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24314v1"
+    },
+    {
+      "paperTitle": "OPDSearch+: On-Policy Distillation with RL Refinement for Search-Augmented Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24310v1"
+    },
+    {
+      "paperTitle": "SENSESHIFT: Continuous Sentiment-Controlled Text Generation via Encoder-based Mask Infilling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24304v1"
+    },
+    {
+      "paperTitle": "VideoHarness-RSI: Recursive Harness Self-Improvement for Long-Video Understanding with Frozen Vision-Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24302v1"
+    },
+    {
+      "paperTitle": "Contrastive Branch Policy Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24300v1"
+    },
+    {
+      "paperTitle": "ReproAgent: Contract-Guided Paper-to-Code Reproduction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24291v1"
+    },
+    {
+      "paperTitle": "RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24275v1"
+    },
+    {
+      "paperTitle": "Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24274v1"
+    },
+    {
+      "paperTitle": "Matched Excess-Outranker Regularization for Candidate-Set Interference in Continual Knowledge Graph Embedding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24273v2"
+    },
+    {
+      "paperTitle": "Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24263v1"
+    },
+    {
+      "paperTitle": "Beyond Accuracy: A Dual-Judge Evaluation Protocol for Vision-Language Models in Legally Grounded Tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24258v1"
+    },
+    {
+      "paperTitle": "SA-Bench: Evaluating Semantic Alignment in LLM-Based Paper Reproduction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24252v1"
+    },
+    {
+      "paperTitle": "STRIVE: Multi-Agent Structured Temporal Reasoning with Integrated Verification for Longitudinal Radiology Report Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24237v1"
+    },
+    {
+      "paperTitle": "TRACE: An Evidence-Grounded Benchmark for Safety Evaluation of Large Reasoning Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24232v1"
+    },
+    {
+      "paperTitle": "Evaluating Multiple LLM Generations with Validated Task Coverage",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24228v1"
+    },
+    {
+      "paperTitle": "Constraint-Guided Enterprise Data Mapping with Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24218v1"
+    },
+    {
+      "paperTitle": "MetaRAG: Belief-Action Aligned Policy Optimization for Agentic RAG",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24214v1"
+    },
+    {
+      "paperTitle": "Targeting the Attention Heads Behind Object Hallucination in LLaVA",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24966v1"
+    },
+    {
+      "paperTitle": "Preference Data Selection for Mitigating the Alignment Tax in Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24192v1"
+    },
+    {
+      "paperTitle": "'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24191v1"
+    },
+    {
+      "paperTitle": "Paritok-4B: Intent-Conditioned Context Compression for Coding Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24188v1"
+    },
+    {
+      "paperTitle": "Tlow: Flow-based Item Tokenizer for Recommendation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24176v1"
+    },
+    {
+      "paperTitle": "Task-Adaptive Rubrics for GUI Reward Modeling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24174v1"
+    },
+    {
+      "paperTitle": "Preference Optimization for Non-Verbal Vocalization Synthesis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24163v1"
+    },
+    {
+      "paperTitle": "OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24160v1"
+    },
+    {
+      "paperTitle": "LLM-Guided Contextual Action Evaluation for Operational Decisions in Industrial Processes",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24156v1"
+    },
+    {
+      "paperTitle": "Rethinking Pre-Training and Augmentation for Zero-Shot Cross-City Object Detection",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24154v1"
+    },
+    {
+      "paperTitle": "Evaluating and Preventing Security Smells in AI-Generated Ansible Code",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24962v1"
+    },
+    {
+      "paperTitle": "Robust Code RL via Faulty-Code-Driven Test case Synthesis and Dense Reward Shaping",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24135v1"
+    },
+    {
+      "paperTitle": "PlaceSeek: Human-Centered Geospatial Retrieval of Urban Outdoor Places via Semantic Grounding and Affective Alignment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24133v1"
+    },
+    {
+      "paperTitle": "From Gradient-Boosted Trees to Deep Recommenders: Practical Lessons from Migrating a Production Customer Support Recommender",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24132v1"
+    },
+    {
+      "paperTitle": "Syn2RealTrack: Bridging the Gap Between Synthetic and Real-World Datasets for Online Multi-View Multi-Target Tracking",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24130v1"
+    },
+    {
+      "paperTitle": "TransPhy: Visual In-Context Learning for Physically Grounded Image Editing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24119v1"
+    },
+    {
+      "paperTitle": "PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24115v1"
+    },
+    {
+      "paperTitle": "AHEAD: Adaptive Hindsight with Environment-Augmented Distillation for Agentic RL",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24114v1"
+    },
+    {
+      "paperTitle": "Structured Frequency-Domain Evidence for LLM-Based Time-Series Anomaly Detection",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24113v1"
+    },
+    {
+      "paperTitle": "Scalable Question-Centric Text-to-Image Evaluation: Reliable Ranking, Fine-Grained Diagnosis, and Cost-Aware Routing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24112v1"
+    },
+    {
+      "paperTitle": "Can We Read the Mind of an Audio LLM? A Verbalizable, Multilingual Middle-Layer Workspace",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24958v1"
+    },
+    {
+      "paperTitle": "MatReplace: A Reference-Free, Conditioning-Aligned Benchmark for Material Replacement in Interior Scenes",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24107v1"
+    },
+    {
+      "paperTitle": "ACE: A Self-Correcting Agentic Canvas Editor for Multi-Slide Presentation Automation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24103v1"
+    },
+    {
+      "paperTitle": "Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24099v1"
+    },
+    {
+      "paperTitle": "Knowing When to Ask for Help: Bayesian Self-Escalation in Hierarchical LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24087v1"
+    },
+    {
+      "paperTitle": "EMRB: A Multi-Level Benchmark for Evaluating LLM Reasoning over Raw Electromagnetic Signals",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24086v1"
+    },
+    {
+      "paperTitle": "PARTAB: Partition-Aware Reasoning with Structured Evidence for Scalable Table Understanding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24082v1"
+    },
+    {
+      "paperTitle": "When Less Is More: An Empirical Study of Minimal Responses in Counseling Dialogues and the Behavior of LLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24080v1"
+    },
+    {
+      "paperTitle": "AgentWorld: Personality-Aware Reliability Evaluation for Agentic Information Retrieval",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24076v2"
+    },
+    {
+      "paperTitle": "ORBITALIF: An Efficient Spiking Federated Learning Framework for Onboard Cloud Removal",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24073v1"
+    },
+    {
+      "paperTitle": "Compression Trinity: Exploring Sparsity, Quantization, and Low-Rank Approximations for LLM Compression",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24070v1"
+    },
+    {
+      "paperTitle": "Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24069v1"
+    },
+    {
+      "paperTitle": "Mechanistic Circuit Identification for Controllable Data Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24065v1"
+    },
+    {
+      "paperTitle": "VisCache: Visual KV Cache Pruning for Efficient Vision Large Language Model Inference",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24063v1"
+    },
+    {
+      "paperTitle": "Don't Just Listen, Try Planning: Graph-based Retrieval-Generation Agent for Long-form Audio Meeting Understanding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24048v1"
+    },
+    {
+      "paperTitle": "Algorithmic Impact Reveals the Hidden Social Choice Structure of Alignment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24046v1"
+    },
+    {
+      "paperTitle": "Relative Time Intervals Representation for Word-level Timestamping with Masked Training",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24041v1"
+    },
+    {
+      "paperTitle": "Design-to-Plan: A Large Language Model-Based Multi-Agent Framework for Manufacturing Process Planning from 3D CAD Models and 2D Engineering Drawings",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24039v1"
+    },
+    {
+      "paperTitle": "ChorusTIC: Training-Free Multivariate Time Series Classification via Chorus In-Context Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24033v1"
+    },
+    {
+      "paperTitle": "Beyond Confidence: Test-Time Scaling for Multi-Turn Search Agents via Retrieval Grounding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24024v1"
+    },
+    {
+      "paperTitle": "What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24022v1"
+    },
+    {
+      "paperTitle": "IterCAD: Iterative Program Repair for CAD Code Generation from Orthographic Views",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24020v1"
+    },
+    {
+      "paperTitle": "WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24017v1"
+    },
+    {
+      "paperTitle": "Reflection with Action-Induced Visual Differences for Desktop GUI Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24015v1"
+    },
+    {
+      "paperTitle": "SAGE: From Direct Answering to Evidence-Grounded Inference for Chinese Ancient Document Understanding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24011v1"
+    },
+    {
+      "paperTitle": "Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24005v1"
+    },
+    {
+      "paperTitle": "Diverse by Reasoning: Harnessing the Wisdom of LLM Crowds for Future Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24001v2"
+    },
+    {
+      "paperTitle": "Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23992v1"
+    },
+    {
+      "paperTitle": "The Shadow Price of Intelligence: Quality Degradation in LLM Inference as a Supply Chain Problem",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23986v1"
+    },
+    {
+      "paperTitle": "Memory Is Not Always Needed: Characterizing Conditional Memory in Scientific Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23982v1"
+    },
+    {
+      "paperTitle": "Rules Before Oracles: Auditable, User-Configurable Argument Selection for Deliberative Polling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23979v1"
+    },
+    {
+      "paperTitle": "When Seeing Is Not Enough: Benchmarking Interactive Visual Grounding in LVLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23978v1"
+    },
+    {
+      "paperTitle": "Giraffe: A Mapping Architecture from Hidden Text Representations to Visual Embeddings for Efficient Graphic Design",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23970v1"
+    },
+    {
+      "paperTitle": "RAGSentinel: Certifiable Geometric Consensus for Robust Retrieval-Augmented Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23965v1"
+    },
+    {
+      "paperTitle": "More GPUs or a Smaller Cache? Tensor Parallelism versus KV Compression for Memory-Bound LLM Serving",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23962v1"
+    },
+    {
+      "paperTitle": "Evaluating Language Models on Cross-Language Code Functional Equivalence",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23961v1"
+    },
+    {
+      "paperTitle": "NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23959v1"
+    },
+    {
+      "paperTitle": "Recursive Agentic Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23956v1"
+    },
+    {
+      "paperTitle": "The Empire, Long Divided, Must Unite: Architectural Convergence in Three LLM Agent Harnesses",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23953v1"
+    },
+    {
+      "paperTitle": "STAIN-FL: Stealthy Targeted Attack Injection with Contextual Triggers in Federated Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23952v1"
+    },
+    {
+      "paperTitle": "Luce: Relightable Gaussians for 3D Asset Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23943v1"
+    },
+    {
+      "paperTitle": "More Rejective, Not More Discriminative: The Unit of Verification in Pre-Execution LLM Oversight",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23941v1"
+    },
+    {
+      "paperTitle": "QML for Quantum Sensing under Measurement-Induced Information Loss",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23934v1"
+    },
+    {
+      "paperTitle": "Evolutionary Recurrent Decision Model in Developing Adaptive and Maladaptive Behaviors",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23932v1"
+    },
+    {
+      "paperTitle": "RefineRank: Joint Box Refinement and Ranking for Surgical Spatio-Temporal Grounding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23928v1"
+    },
+    {
+      "paperTitle": "Data Mixing as Mixture Experiment: Response Surface Methodology and Optimal Design for Large Language Model Pretraining",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23922v1"
+    },
+    {
+      "paperTitle": "MARS: Multi-Specialist LLM Relay System for Competitive Programming",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23918v1"
+    },
+    {
+      "paperTitle": "PROOF-Gen: From Optimized Data to Better Distillation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23911v1"
+    },
+    {
+      "paperTitle": "Retrieval-augmented generation vs. deterministic tax computation in multi-agent financial advisory: A 2x2 factorial experiment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23908v1"
+    },
+    {
+      "paperTitle": "Quantifying System-Level Harms from AI Adoption in Complex Sociotechnical Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23906v1"
+    },
+    {
+      "paperTitle": "BenchBench-Protocol: Evaluating Real-World Wet-Lab Protocol Reasoning and Modification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23898v1"
+    },
+    {
+      "paperTitle": "Names Can Hurt: Spotting Slopsquatting Risks Caused by Package Name Hallucinations in Local Coding LLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23897v1"
+    },
+    {
+      "paperTitle": "Learning the Kohn-Sham map with neural operators for quasi-linear scaling density functional theory",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23895v1"
+    },
+    {
+      "paperTitle": "Provenance Guided Incremental Learning Under Evolving Concept Definitions",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23893v1"
+    },
+    {
+      "paperTitle": "A Mathematical Theory of Interpretation: Rational Entropy, Spectral Readout, and Confusability as a Resource",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23892v1"
+    },
+    {
+      "paperTitle": "A tale of perfect fit and phantom optima: how data-driven models can fail in real-time optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23885v1"
+    },
+    {
+      "paperTitle": "The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24952v1"
+    },
+    {
+      "paperTitle": "AI Finds A Way",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23875v2"
+    },
+    {
+      "paperTitle": "Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23873v1"
+    },
+    {
+      "paperTitle": "Granite.Trust Policy Tools: Shareable, Actionable Policies for Generative AI Applications",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23870v1"
+    },
+    {
+      "paperTitle": "Revelation Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23860v1"
+    },
+    {
+      "paperTitle": "Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23858v1"
+    },
+    {
+      "paperTitle": "In-Context Inpainting for Time Series Forecasting",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23855v1"
+    },
+    {
+      "paperTitle": "Exploit More, Explore Smarter for Budget-Constrained Agentic Search",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23848v1"
+    },
+    {
+      "paperTitle": "Coronavirus Optimization Algorithm: A Success-History Adaptive Evolutionary Framework with Archive-Assisted Search and Stagnation Recovery for Global Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23847v1"
+    },
+    {
+      "paperTitle": "Automated Synthesis of Cloud Emulators",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23842v1"
+    },
+    {
+      "paperTitle": "ShardMeter: Sharded and Geo-Distributed Training Without the Guesswork",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23840v1"
+    },
+    {
+      "paperTitle": "Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23839v1"
+    },
+    {
+      "paperTitle": "Infant Care Video Dataset for Classification of Interventions Using Transformers",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23838v1"
+    },
+    {
+      "paperTitle": "SyPS: Measuring Sycophancy Prompt Sensitivity in Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23837v1"
+    },
+    {
+      "paperTitle": "Predicting Radiologist Expertise from 3D Gaze Patterns During CT Interpretation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23836v1"
+    },
+    {
+      "paperTitle": "Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23834v1"
+    },
+    {
+      "paperTitle": "Place, Slice and Schedule: Hierarchical O-RAN Control of a Tethered mmWave UAV-gNB",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23824v1"
+    },
+    {
+      "paperTitle": "A Formal Methodological Framework for Auditing Robustness and Fidelity in Explainable AI: From Application to Trust Certification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23817v1"
+    },
+    {
+      "paperTitle": "Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23814v1"
+    },
+    {
+      "paperTitle": "Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23811v1"
+    },
+    {
+      "paperTitle": "Discovering Cross-Language Reasoning Invariance in LLMs with Geometry-Invariant Sparse Autoencoders",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23809v1"
+    },
+    {
+      "paperTitle": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23807v1"
+    },
+    {
+      "paperTitle": "LUCAID: Agentic Multimodal AI for Lung Cancer Precision Pathology",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23803v1"
+    },
+    {
+      "paperTitle": "Restoring Without Forgetting: Continual Learning Across Image Degradations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23799v1"
+    },
+    {
+      "paperTitle": "EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23791v1"
+    },
+    {
+      "paperTitle": "When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23780v1"
+    },
+    {
+      "paperTitle": "Disentangled Skill Representations for Predictive Human Modeling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23776v1"
+    },
+    {
+      "paperTitle": "What Reaches Expert Review? Representation, Structural Screening, and Candidate-Form Dependence in AI-Assisted Item Development",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23766v1"
+    },
+    {
+      "paperTitle": "TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23763v1"
+    },
+    {
+      "paperTitle": "EXAM$^2$: $\\underline{Ex}tending$ $\\underline{A}udio$ $Understanding$ $in$ $\\underline{M}ultilingual$ $and$ $\\underline{M}ultimodal$ $Analysis$",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23758v1"
+    },
+    {
+      "paperTitle": "Too much of a good thing -- when knowledge distillation promotes overfitting, and how to avoid it",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23752v1"
+    },
+    {
+      "paperTitle": "Demystifying Reinforcement Learning Post-Training of Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24949v1"
+    },
+    {
+      "paperTitle": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23740v1"
+    },
+    {
+      "paperTitle": "Do LLMs Understand Limit Order Book Dynamics?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23706v1"
+    },
+    {
+      "paperTitle": "The Limits of Automatic Evaluation of Creativity in Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23705v1"
+    },
+    {
+      "paperTitle": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23691v1"
+    },
+    {
+      "paperTitle": "Best Practice Critic Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23566v2"
+    },
+    {
+      "paperTitle": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23565v1"
+    },
+    {
+      "paperTitle": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23564v1"
+    },
+    {
+      "paperTitle": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23563v1"
+    },
+    {
+      "paperTitle": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23562v1"
+    },
+    {
+      "paperTitle": "Automata from Agent Traces: Failure and Next-Step Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23670v1"
+    },
+    {
+      "paperTitle": "Prime Agent: A Self-Improving RLM Harness",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23552v1"
+    },
+    {
+      "paperTitle": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23551v1"
+    },
+    {
+      "paperTitle": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23543v1"
+    },
+    {
+      "paperTitle": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23541v1"
+    },
+    {
+      "paperTitle": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23536v1"
+    },
+    {
+      "paperTitle": "Correcting a learned physical invariant improves world-model rollouts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23526v1"
+    },
+    {
+      "paperTitle": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23525v1"
+    },
+    {
+      "paperTitle": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23524v1"
+    },
+    {
+      "paperTitle": "Gated Activation Steering for Reducing Sycophancy & Hallucination in Medical Question Answering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23666v1"
+    },
+    {
+      "paperTitle": "When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23507v1"
+    },
+    {
+      "paperTitle": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23497v1"
+    },
+    {
+      "paperTitle": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23493v1"
+    },
+    {
+      "paperTitle": "Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23663v2"
+    },
+    {
+      "paperTitle": "Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23484v1"
+    },
+    {
+      "paperTitle": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23478v1"
+    },
+    {
+      "paperTitle": "StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23475v1"
+    },
+    {
+      "paperTitle": "What's the Catch? Evaluating Temporal Consistency in Vision-Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23474v2"
+    },
+    {
+      "paperTitle": "MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23473v1"
+    },
+    {
+      "paperTitle": "InjecMEM: Memory Injection Attack on LLM Agent Memory Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23471v1"
+    },
+    {
+      "paperTitle": "Reward-Free Continual Adaptation for Resilient Space Robots",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23452v1"
+    },
+    {
+      "paperTitle": "Characterizing Necessary Losers to Explain Tournaments Losers",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23446v1"
+    },
+    {
+      "paperTitle": "Towards Comprehensive Basketball Understanding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23435v1"
+    },
+    {
+      "paperTitle": "CAT-GS: Balanced Multimodal Learning via Calibrated Gating and Fusion Surgery",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24947v1"
+    },
+    {
+      "paperTitle": "ChebBooster: A Training-Free Approach for Efficient Diffusion Transformer Inference via Chebyshev-Inspired Extrapolation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23429v1"
+    },
+    {
+      "paperTitle": "SkillAlchemy: Open-World Agent Skill Creation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23417v1"
+    },
+    {
+      "paperTitle": "From Causal Plausibility to Causal Reliability: Evaluating LLMs as Calibrated Direct Causal-Edge Classifiers",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23660v1"
+    },
+    {
+      "paperTitle": "Elastic KV Cache for LLM Serving:A Working Reclamation Mechanism, and Why Chunked Prefill Already Closes the Gap",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23658v1"
+    },
+    {
+      "paperTitle": "Adaptive Item-based Collaborative Structures via Noise Rescheduling in Diffusion for Generative Recommendation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23400v1"
+    },
+    {
+      "paperTitle": "MediSkill-Evo: Process-Constrained Self-Evolution for Evidence-Grounded Clinical Interaction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23397v2"
+    },
+    {
+      "paperTitle": "Right-Sizing LLM-Agent Decomposition in VAT Determination: A Pilot Controlled Sweep",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23395v1"
+    },
+    {
+      "paperTitle": "Towards a Densing Law for User Representation Learning at Billion-Scale Capacity",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23392v1"
+    },
+    {
+      "paperTitle": "Cross-Domain, Multi-Task Data-to-Text Generation without In-Domain Training Data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23391v2"
+    },
+    {
+      "paperTitle": "Cross-lingual Biography Enrichment via Claim Extraction and Alignment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23390v2"
+    },
+    {
+      "paperTitle": "Adversarial Entropy Inflation Against Gumbel-Based Inference Verification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23375v1"
+    },
+    {
+      "paperTitle": "Modalities Should Talk to Each Other: Dual-Stream Multimodal Learning for Long-Horizon Influenza Forecasting",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23373v1"
+    },
+    {
+      "paperTitle": "Walking on the DARKSIDE",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23370v1"
+    },
+    {
+      "paperTitle": "DF-MoE: Generalizable Deepfake Detection via Multimodal Sparse Mixture-of-Experts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23363v1"
+    },
+    {
+      "paperTitle": "The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine-Tuning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23338v1"
+    },
+    {
+      "paperTitle": "FAMPWQ: Fisher Information-based Adaptive Mixed Precision Weight Quantization for Effective LLM Inference",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24945v1"
+    },
+    {
+      "paperTitle": "Thinking Beyond Videos: Unifying Video Reasoning and Deep Research for Open-World Video Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23329v2"
+    },
+    {
+      "paperTitle": "Mycelial Search: A Graph-Structured Metaheuristic for Continuous Optimisation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23323v1"
+    },
+    {
+      "paperTitle": "Agent-G$^2$: Gaussian Guidance for Agentic Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23318v1"
+    },
+    {
+      "paperTitle": "EviSafe: Evidence-Grounded Safety Evaluation for Vision-Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23313v1"
+    },
+    {
+      "paperTitle": "FIDES: A Concordance Protocol for LLM-Generated Trading Strategies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23308v1"
+    },
+    {
+      "paperTitle": "Evaluating SAT Solver Metrics as Predictors of Human-Perceived Nonogram Difficulty",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23300v1"
+    },
+    {
+      "paperTitle": "Sigmoid Attention as a Better Substrate for Learned KV Cache Eviction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23296v1"
+    },
+    {
+      "paperTitle": "How Much Regularization Survives Averaging? Update Masking in Federated Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23286v2"
+    },
+    {
+      "paperTitle": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23283v2"
+    },
+    {
+      "paperTitle": "Hidden in the Request: Explaining Unethical LLM Compliance through Token Relevance",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23264v1"
+    },
+    {
+      "paperTitle": "Automated Construction of FAIR Digital Object Knowledge Graphs from Flat Cultural Heritage Records",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23263v1"
+    },
+    {
+      "paperTitle": "Progressively Learning Heterogeneous Skills in a Unified Latent Space",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23258v1"
+    },
+    {
+      "paperTitle": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23256v1"
+    },
+    {
+      "paperTitle": "E2S-Pruner: Progressive Two-Stage Evidence Fusion for Visual Token Pruning in Vision-Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23253v1"
+    },
+    {
+      "paperTitle": "Future Querying: Can LLMs Serve as Implicit Medical World Models?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23248v1"
+    },
+    {
+      "paperTitle": "Multi-Winner Voting with Argumentative Ballots",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23247v1"
+    },
+    {
+      "paperTitle": "Credal Large Language Models for Semantic Commitment under Uncertainty",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23244v1"
+    },
+    {
+      "paperTitle": "Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23241v1"
+    },
+    {
+      "paperTitle": "Think Only When Needed: Prompt-Authority Control for Selective Slow-Path Intervention in Vision-Language-Action Manipulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23224v1"
+    },
+    {
+      "paperTitle": "What is mathematics now, and what should it be?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23218v1"
+    },
+    {
+      "paperTitle": "AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23217v1"
+    },
+    {
+      "paperTitle": "BenthicDINO: Physics-Informed Self-Distillation for View-Invariant Side-Scan Sonar Representations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23215v1"
+    },
+    {
+      "paperTitle": "Cognitive Profiling of LRMs' Reasoning Traces Using Bloom's Taxonomy",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23205v1"
+    },
+    {
+      "paperTitle": "AI emotional support is better only when chosen, but shifts preferences even when it is not",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23196v1"
+    },
+    {
+      "paperTitle": "NetConfArena: An Executable Benchmark for LLM Agents in Closed-Loop Network Configuration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23179v1"
+    },
+    {
+      "paperTitle": "Counterfactual Transition Graphs: Evaluating Cross-Class Transition Quality",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23164v1"
+    },
+    {
+      "paperTitle": "Language Chain in Alignment: Cross-Lingual Ranking Preference Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23149v1"
+    },
+    {
+      "paperTitle": "Beyond Executable Models: The Pufibara Agent Harness and the Modelica Agent Workflow Benchmark for Physical System Modeling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23653v1"
+    },
+    {
+      "paperTitle": "Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23138v1"
+    },
+    {
+      "paperTitle": "LITERARYBIGFIVE: Author-Personalized Text Generation in a Unified Interpretable Space",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23124v2"
+    },
+    {
+      "paperTitle": "Statistical Machine Translation Systems of English-Pnar Language Pair : Some Insights of the Emperical Study",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23120v1"
+    },
+    {
+      "paperTitle": "DeMixPert: Decomposed Response Modeling with Gaussian Mixtures for OOD Single-Cell Perturbation Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23114v1"
+    },
+    {
+      "paperTitle": "Molecular LLM Agents: From Architectural Design to Scientific Autonomy",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23104v2"
+    },
+    {
+      "paperTitle": "PolyChirp: Multi-Species Birdsong Classification Using TinyML on Low-Power Acoustic Sensors",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23101v1"
+    },
+    {
+      "paperTitle": "Shaping the Evolutionary Dynamics of Robot Morphology via Adaptive Control Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23100v1"
+    },
+    {
+      "paperTitle": "Jiuge-Tuiqiao: An Interpretable Human-AI System for Classical Chinese Poetry Refinement",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23098v1"
+    },
+    {
+      "paperTitle": "POOL: Propagated Uncertainty Over Lookalikes",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23086v1"
+    },
+    {
+      "paperTitle": "AgentWeave: Routing Before Reasoning for Efficient Function Calling in Tool-Rich Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23078v1"
+    },
+    {
+      "paperTitle": "Feedback That Backfires: Why Small Language Model Agents Repeat the Call They Just Watched Fail",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23651v1"
+    },
+    {
+      "paperTitle": "From Generation to Simulation: How Far Are World Models from Being True Simulators?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23070v1"
+    },
+    {
+      "paperTitle": "Cultural Moment Benchmark: Evaluating Video Cultural Reasoning and Grounding in Southeast Asia",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23065v1"
+    },
+    {
+      "paperTitle": "Improving O-RADS Risk Stratification from Ultrasound Reports: A Comparative Evaluation of Hybrid versus End-to-End LLM Reasoning Strategies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23061v1"
+    },
+    {
+      "paperTitle": "LLM-based Agents for Forecasting and Prediction: Methods, Training, Evaluation, and Applications",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23058v1"
+    },
+    {
+      "paperTitle": "Beyond Verdicts: A Graph-Based Analysis of Human and LLM Reasoning in Scientific Fact-Checking",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23047v1"
+    },
+    {
+      "paperTitle": "From Inertia to Objectivity: Improving Deep Research Agents with Noise Isolation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23045v1"
+    },
+    {
+      "paperTitle": "When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24940v1"
+    },
+    {
+      "paperTitle": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23041v1"
+    },
+    {
+      "paperTitle": "The Multilingual FrameNet Corpus",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23037v1"
+    },
+    {
+      "paperTitle": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23035v2"
+    },
+    {
+      "paperTitle": "FedCC: Towards Addressing Label Distribution Skews in Distillation-Based Federated Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23031v2"
+    },
+    {
+      "paperTitle": "Artificial Empathy: Towards a Framework for Unsupervised Agency Detection and Policy Reconstruction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23030v1"
+    },
+    {
+      "paperTitle": "PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23028v1"
+    },
+    {
+      "paperTitle": "Beyond Surface Cues: Disentangling Sociocultural Signals in Multilingual LLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23026v1"
+    },
+    {
+      "paperTitle": "Unlearning Is Not Just Erasing: Temporal Decoupling via Generation Inequality",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23020v1"
+    },
+    {
+      "paperTitle": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23646v1"
+    },
+    {
+      "paperTitle": "SplitLite: Low-Rank Residual Compression for Split Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23018v1"
+    },
+    {
+      "paperTitle": "Coarse Indexing, Fine Evidence: Decoupling Temporal Granularity in Long-Video RAG",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23011v1"
+    },
+    {
+      "paperTitle": "PatchWrite: One Line, Not One Section -- Compile-Gated, Validity-Preserving Editing for AI-Drafted Manuscripts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23001v1"
+    },
+    {
+      "paperTitle": "A Physical Response-and-Memory Model for Muon Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22994v1"
+    },
+    {
+      "paperTitle": "ExFold: Unified Expert Folding for Training-Free MoE Prefill-Decode Acceleration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24938v1"
+    },
+    {
+      "paperTitle": "Hypergraph Embedding Indexing for Efficient Dense Vector Retrieval",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22980v1"
+    },
+    {
+      "paperTitle": "SA-RSQ: A Versatile Sparse Representation Framework for Multi-modal Recommender Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22979v2"
+    },
+    {
+      "paperTitle": "Budget-Constrained Embodied Perception: Four Resource Walls and a Pre-Registered Evaluation of Access-Structured Perception on Open Models at less than 31B",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22975v1"
+    },
+    {
+      "paperTitle": "Toward Effective and Reliable LLM Agents via Dynamic Ontology",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22974v1"
+    },
+    {
+      "paperTitle": "ParallelWorld: Test-Time Scaling for Embodied Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22971v1"
+    },
+    {
+      "paperTitle": "Buried in Textual Debt: Context Pruning with Visual Evidence Preservation for MLLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22963v1"
+    },
+    {
+      "paperTitle": "What Process Evaluation of Coding Agents Actually Measures: Action, Task, and Step Are Three Different Levels",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22960v1"
+    },
+    {
+      "paperTitle": "WildHandBench: A Benchmark for Handwritten Text Understanding that Challenges MLLMs and Humans",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22959v1"
+    },
+    {
+      "paperTitle": "What Proves You Wrong: Benchmarking Language Models on Falsifiable Research Ideation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22948v1"
+    },
+    {
+      "paperTitle": "Concepts for Securing Agentic AI Coding and the Terok Environment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22930v1"
+    },
+    {
+      "paperTitle": "Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22923v1"
+    },
+    {
+      "paperTitle": "Beyond Observed Auxiliary Relations: Environment-Conditioned Modeling for Multi-Behavior Recommendation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22920v1"
+    },
+    {
+      "paperTitle": "Safety Hacking in Constrained Best-of-$N$ Inference-time Scaling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22915v1"
+    },
+    {
+      "paperTitle": "Do Spoken Language Models Hear Speech as They Read Text? Bridging Structural Gaps Between Speech and Text",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22908v1"
+    },
+    {
+      "paperTitle": "CDEG: Learning Decision-Critical Evidence for Long-Horizon Diagnostic Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22899v2"
+    },
+    {
+      "paperTitle": "AraDetox: A Multi-Dialect Arabic Detoxification Dataset",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22894v1"
+    },
+    {
+      "paperTitle": "Proxy reliance in large language model decisions is uncalibrated to predictive evidence",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22887v1"
+    },
+    {
+      "paperTitle": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23644v1"
+    },
+    {
+      "paperTitle": "The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22876v2"
+    },
+    {
+      "paperTitle": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22852v1"
+    },
+    {
+      "paperTitle": "GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22847v1"
+    },
+    {
+      "paperTitle": "FinixDoc: Rethinking Financial Document Parsing Beyond Saturated Benchmarks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22842v1"
+    },
+    {
+      "paperTitle": "Hierarchy-Aware Supervised Uncertainty Estimation for Black-box LLM Taxonomic Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22839v1"
+    },
+    {
+      "paperTitle": "Minimal Local Simulation Foundations for LLM- and VLM-Driven Agents in 2D and 3D Environments",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22833v1"
+    },
+    {
+      "paperTitle": "Let the Bullets Fly: Multimodal Fake News Detection with Temporal-Aligned Generative Danmaku",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22832v1"
+    },
+    {
+      "paperTitle": "Beyond the Harness: End-to-End Optimization of Context Artifacts for Enterprise Text-to-SQL",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22830v1"
+    },
+    {
+      "paperTitle": "Fairness-Aware Mixture-of-Experts via Subgroup Reweighting and Gate Regularization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22820v1"
+    },
+    {
+      "paperTitle": "SDoH-Aware Narrative Anchoring Bias in Medical LLMs for Trustworthy Clinical Decision Support",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22802v1"
+    },
+    {
+      "paperTitle": "Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22800v1"
+    },
+    {
+      "paperTitle": "Performance of a domain-specific large language model in answering patient questions in psychiatry",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22797v1"
+    },
+    {
+      "paperTitle": "TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22793v1"
+    },
+    {
+      "paperTitle": "TailSieve: Partial-Rollout-Guided Tail Routing for LLM Rollouts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22788v2"
+    },
+    {
+      "paperTitle": "The Retriever Should Remember: Experience-Amortized Reranking for Long-Term Agent Memory",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22767v1"
+    },
+    {
+      "paperTitle": "Compositional Chain-of-Relations for Faithful Knowledge Graph Question Answering with Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22762v1"
+    },
+    {
+      "paperTitle": "Don't Repeat Yourself: Stopping Verbatim Loops at Sampling Time",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22761v1"
+    },
+    {
+      "paperTitle": "XTC: Head-Aware Sampling by Excluding Top Choices",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22758v1"
+    },
+    {
+      "paperTitle": "Object-Uni: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22757v1"
+    },
+    {
+      "paperTitle": "The Compaction Cliff in Long-Running AI Agent Memory",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22752v1"
+    },
+    {
+      "paperTitle": "DiaRelay: Relaying Dialogue Context with a Constant-Size Memory for Emotion Recognition in Conversation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22745v1"
+    },
+    {
+      "paperTitle": "AI Agents Push Humans Out of the Loop",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23642v1"
+    },
+    {
+      "paperTitle": "LLM-Based Selection of Incongruent Verbal and Nonverbal Behavior for Virtual Humans",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22731v1"
+    },
+    {
+      "paperTitle": "SEAM: Shot Entity-Attribute Memory for Consistent Short-Drama Generation at Scale",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22725v1"
+    },
+    {
+      "paperTitle": "How much of a measured AI preference is the model, and how much is the instrument?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23641v1"
+    },
+    {
+      "paperTitle": "TEE-X: TEE-aware Acceleration Framework for Large Vision Models at the Edge",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22716v1"
+    },
+    {
+      "paperTitle": "CacheRouter: A Dual-Path Tool Routing Architecture with Cache-Preserving Main-Model Isolation for Long-Tail Tool Discovery",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22708v1"
+    },
+    {
+      "paperTitle": "Multi-Modal Anomaly Detection: A Survey",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24937v1"
+    },
+    {
+      "paperTitle": "Does Rank Still Matter? Position Bias When AI Agents Shop on Our Behalf",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22697v1"
+    },
+    {
+      "paperTitle": "Enrich-Retrieve-Rank: Scaling Capability Discovery Beyond In-Context Routing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22695v1"
+    },
+    {
+      "paperTitle": "RACO: Reliability-Aware Coarse-Goal Optimization for Inspection-Oriented UAV Vision-Language Navigation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22678v1"
+    },
+    {
+      "paperTitle": "Robustness Analysis of Agentic AI to Inconsistent and Incomplete Tool Responses",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22676v1"
+    },
+    {
+      "paperTitle": "A-CPES: A Reference Framework for Agentic AI in Cyber-Physical Energy Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22672v1"
+    },
+    {
+      "paperTitle": "Hyperbolic Hierarchical Clustering for Visual Representation Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22665v1"
+    },
+    {
+      "paperTitle": "Physical Agentic AI: An Architecture for Orchestrating a Robot Crew with LLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22657v1"
+    },
+    {
+      "paperTitle": "GreenLeaf Law Embed Tiny: A Compact Embedding Model for Legal Domain Retrieval",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24936v1"
+    },
+    {
+      "paperTitle": "Evaluating Inference-Time Defenses Against Package Hallucination in LLM-Generated Code",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22652v1"
+    },
+    {
+      "paperTitle": "CAI-DLLM: Convergence Aware Inference for Diffusion Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22646v1"
+    },
+    {
+      "paperTitle": "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22642v1"
+    },
+    {
+      "paperTitle": "Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22638v1"
+    },
+    {
+      "paperTitle": "GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22634v1"
+    },
+    {
+      "paperTitle": "Teaching LLMs How ICU Physicians Approach Clinical Reasoning Through OMOP-Aligned Retrieval Improves Reasoning Across Clinical Domains",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22622v1"
+    },
+    {
+      "paperTitle": "AI-based worker guidance in assembly and disassembly operations using multimodal ego/exo-centric data capture and structured task knowledge",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22617v1"
+    },
+    {
+      "paperTitle": "DeepSAGE: Stage-Aware Reinforcement Learning for Structured CBT Counseling Dialogue",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22615v1"
+    },
+    {
+      "paperTitle": "Coalition-Aware Skill Reliability for Self-Evolving Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22610v1"
+    },
+    {
+      "paperTitle": "Vision-Language Models for Occupational Physical Exposure Assessment: Estimating External Hand Forces in Manual Material Handling Tasks from RGB Video",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22586v1"
+    },
+    {
+      "paperTitle": "Weakly supervised concept Bottleneck Learning for Robust Two stage Object centric visual reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22584v1"
+    },
+    {
+      "paperTitle": "Clinical Graph-JEPA: Predictive Patient-State Knowledge Graphs for Cognitive Decision Support",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22583v2"
+    },
+    {
+      "paperTitle": "Hybrid Panels: Toward Human-AI Collaboration in Survey Research",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22582v1"
+    },
+    {
+      "paperTitle": "A Lightweight Multimodal Vision-Language Framework for Early-Stage Anatomical Green Fruit Classification in Commercial Orchards",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24935v1"
+    },
+    {
+      "paperTitle": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23640v1"
+    },
+    {
+      "paperTitle": "CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22577v2"
+    },
+    {
+      "paperTitle": "ExecRubrics: Executable Tool-Augmented Rubrics for Verifiable and Efficient Long-Form Evaluation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22559v1"
+    },
+    {
+      "paperTitle": "BLADE: Bilevel Low-rank Augmented-Lagrangian Erasure for LLM Unlearning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22557v1"
+    },
+    {
+      "paperTitle": "Scaling Curriculum Learning For Autonomous Driving",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22549v1"
+    },
+    {
+      "paperTitle": "STAGE: Stateful Translation to Agentic Graph Execution with Policy-Scoped Context and Deterministic Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22538v1"
+    },
+    {
+      "paperTitle": "CONTRAMEM: Learning Self-Evolving Procedural Memory from Contrasting Multi-Model Trajectories",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22533v1"
+    },
+    {
+      "paperTitle": "Fusing Perceptual Vision Experts with Multimodal Large Language Models for Explainable Plant Disease Diagnosis: From Benchmark Imagery to Real-World Robotic Field Validation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24934v1"
+    },
+    {
+      "paperTitle": "HANSARD: A Reference Architecture for Forensic Readiness, Runtime Witnessing, and Graded Attribution in Autonomous Multi-Agent AI Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22512v1"
+    },
+    {
+      "paperTitle": "ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22510v1"
+    },
+    {
+      "paperTitle": "When Does AI for PDEs Yield Scientific Evidence?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22504v1"
+    },
+    {
+      "paperTitle": "Small Reasoning Models are Instruction Followers in Function Calling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22472v1"
+    },
+    {
+      "paperTitle": "Functional compatibility as a determinant of persistent neural learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22462v2"
+    },
+    {
+      "paperTitle": "ToolRobustBench: Stage-Wise Perturbation Evaluation and Failure Diagnosis for Tool-Calling Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23635v1"
+    },
+    {
+      "paperTitle": "EMPIRE: Explicit Manipulation Planning as a Learnable Intermediate Representation for Egocentric Hand-Motion Forecasting",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22449v1"
+    },
+    {
+      "paperTitle": "When Persona Simulations Are Informative: Graph-Structured Signals for Pluralistic Opinion Sensing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22438v1"
+    },
+    {
+      "paperTitle": "Rank Reversal in Multilingual LLM Judges: A Label-Free Double-Centering Calibrator",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22432v1"
+    },
+    {
+      "paperTitle": "Think with Structured Grounding: Perceptual Reinforcement Learning for Chart and Visual-Tabular Understanding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22429v1"
+    },
+    {
+      "paperTitle": "Function-Level Execution Feedback for Code Preference Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23632v1"
+    },
+    {
+      "paperTitle": "Where World Models Break: Natural-Input Failure Discovery",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22421v1"
+    },
+    {
+      "paperTitle": "Cross-Subject Generalization in Decoding Perceived Speech from Non-Invasive Brain Recordings",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22420v1"
+    },
+    {
+      "paperTitle": "LLMs for Survey Text Analysis - A Performance Comparison Between Humans and GPT-5 on Inductive Content Analysis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22417v1"
+    },
+    {
+      "paperTitle": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23631v1"
+    },
+    {
+      "paperTitle": "KONTOGRAPH: Verified Point-in-Time Feature Consistency and Amortised Explanation for Real-Time Anti-Money Laundering under a 200 ms Decision Budget",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22389v1"
+    },
+    {
+      "paperTitle": "ProBel: Propaganda Detection with Techniques, Spans, and Explanations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22388v1"
+    },
+    {
+      "paperTitle": "Self-Supervised Graph Representation Learning for In-The-Wild Wearable and Smartphone based Emotion Recognition",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22387v1"
+    },
+    {
+      "paperTitle": "WAM-OPD: On-Policy Distillation for World Action Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22364v1"
+    },
+    {
+      "paperTitle": "Analyzing and Mitigating Cross-Lingual Degradation in Multilingual Medical VQA",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22363v1"
+    },
+    {
+      "paperTitle": "Pre-Decoding Acoustic Triage for Budgeted Vision-Language Captioning of Untrimmed Egocentric Video",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22359v1"
+    },
+    {
+      "paperTitle": "Addressing the Selection Problem in Explainable AI",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22356v1"
+    },
+    {
+      "paperTitle": "SANE: State Anomaly Neutralization for Stable Extreme-Context Delta-Rule Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22354v2"
+    },
+    {
+      "paperTitle": "Where Cognition Lives: Dissecting Emergent from Computed Function in a Minimal Complete Cognitive Architecture",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22347v1"
+    },
+    {
+      "paperTitle": "Multimodal examination answer data with expert-designed Outcome-Based Education rubrics for criterion-level assessment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22346v1"
+    },
+    {
+      "paperTitle": "TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22341v1"
+    },
+    {
+      "paperTitle": "Register Shifts Break LLM Safety: A Bengali Benchmark with Culturally Grounded Harms",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22335v1"
+    },
+    {
+      "paperTitle": "Macro-Operator Generation and Predicate Selection for TAMP Operator Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23629v1"
+    },
+    {
+      "paperTitle": "HERO: Human-profile Enhanced Retrieval Optimization Framework for Long-term Agent Memory",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22310v1"
+    },
+    {
+      "paperTitle": "The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22301v1"
+    },
+    {
+      "paperTitle": "LLM Evaluation on Unseen Questions: Contextual Multidimensional IRT Model",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22295v1"
+    },
+    {
+      "paperTitle": "Learning from the Test: Self-Referential Differential Testing for Deep RL Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22284v1"
+    },
+    {
+      "paperTitle": "OVIBench: Benchmarking Online Video Question Answering under Interruption",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22279v1"
+    },
+    {
+      "paperTitle": "Length-Adaptive Decoding for Masked Diffusion Machine Translation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22274v1"
+    },
+    {
+      "paperTitle": "Multi-Task Learning for Non-Canonical Phoneme Recognition via Articulatory Feature Decomposition",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22273v1"
+    },
+    {
+      "paperTitle": "GAN-Diff : Coupling Pretrained WGAN-GP Features with Conditional Diffusion U-Nets",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22272v1"
+    },
+    {
+      "paperTitle": "Clarify User Expertise: Towards Proactive Conversational Agents Tailoring Responses to User Proficiency",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22266v2"
+    },
+    {
+      "paperTitle": "Training-Free VLM Personalization via Calibrated Residual Decoding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22263v1"
+    },
+    {
+      "paperTitle": "Improving Few-Step Language Flows with Untied Self-Conditioning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22244v1"
+    },
+    {
+      "paperTitle": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22237v1"
+    },
+    {
+      "paperTitle": "Beyond What Meets the Eye: Unveiling Situational Illusions for Multimodal Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22232v2"
+    },
+    {
+      "paperTitle": "FreKoo++: Learning Continuous Spectral Dynamics for Temporal Domain Generalization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22224v1"
+    },
+    {
+      "paperTitle": "Spending Scarce Confirmatory PET Measurements: Target-Aligned Validation in A4/LEARN",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22223v1"
+    },
+    {
+      "paperTitle": "Query-Driven Multimodal Information Extraction from Long Documents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22214v1"
+    },
+    {
+      "paperTitle": "Joint Causal Structure and Cluster Discovery Using Variational Inference",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22212v1"
+    },
+    {
+      "paperTitle": "Modality Contribution Score - A Per-Patient Framework for Quantifying the Relative Diagnostic Contribution of Structural MRI and Amyloid PET in Alzheimer's Disease",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.24931v1"
+    },
+    {
+      "paperTitle": "Disagree to Explore, Agree to Commit: Routing-Guided Test-Time Scaling for Software Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22191v1"
+    },
+    {
+      "paperTitle": "Role-Specialized Mixture-of-Agents with Open-Weight LLMs for Clinical Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22176v1"
+    },
+    {
+      "paperTitle": "Aggregation-Aware Synthetic Text Generation Against Authorship Re-Identification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22161v1"
+    },
+    {
+      "paperTitle": "AUDITA: certified auditing and causal attribution of adverse outcomes in autonomous multi-agent systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22160v1"
+    },
+    {
+      "paperTitle": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23626v1"
+    },
+    {
+      "paperTitle": "Why Does Robustness Reduce Superposition?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22155v1"
+    },
+    {
+      "paperTitle": "Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22149v2"
+    },
+    {
+      "paperTitle": "Evaluation of Small Vision-Language Models on Qualitative Mechanical Problems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22143v1"
+    },
+    {
+      "paperTitle": "MEMONDEMAND: A Memory Management System for Large-Scale Enterprise Data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22141v1"
+    },
+    {
+      "paperTitle": "Lexical Perturbations Disrupt LLM Reasoning: An Empirical Study of Attention Diversion",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22140v1"
+    },
+    {
+      "paperTitle": "Measuring Stability and Failure Behavior in Language Models Under Structured Perturbations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22138v1"
+    },
+    {
+      "paperTitle": "MegaMem: A Retrieval Solution for Ultra-Large Context Windows",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22137v1"
+    },
+    {
+      "paperTitle": "SSE-Bio: A Structured Self-Evolving Agent with Agentic Retrieval Policy for Multi-Hop Biomedical Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22132v1"
+    },
+    {
+      "paperTitle": "TRACE: Artifact-Robust Statistical Shape Modeling from Imperfect Surface Scans - A Case Study in Craniosynostosis 3D Photography",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22131v1"
+    },
+    {
+      "paperTitle": "Task-Driven 3D Printability Assistance via Geometry- and Knowledge-Grounded LLM Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22128v1"
+    },
+    {
+      "paperTitle": "Development and Feasibility Evaluation of an Edge AI as Medical Device System for Breast Cancer Multidisciplinary Team Meetings",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22108v1"
+    },
+    {
+      "paperTitle": "Hack-Verifiable Terminal Bench: Evaluating Reward Hacking in Terminal Tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22103v1"
+    },
+    {
+      "paperTitle": "Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22102v1"
+    },
+    {
+      "paperTitle": "Semantic Reasoning Denoising: Correcting Language Model Reasoning with Semantic Operators",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22090v1"
+    },
+    {
+      "paperTitle": "On Predicting Vulnerability Severity Using In-Context Learning: An Industrial Case Study",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22089v1"
+    },
+    {
+      "paperTitle": "Dissecting Neuro-Symbolic Quality Assurance for Synthetic Oncology Data Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22085v1"
+    },
+    {
+      "paperTitle": "When May an Agent Stop? Evidence-Carrying Termination for Tool-Using LLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23623v1"
+    },
+    {
+      "paperTitle": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23622v1"
+    },
+    {
+      "paperTitle": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22071v1"
+    },
+    {
+      "paperTitle": "Decision-Support and Modeling with Large Language Models for Geothermal Well Arrays",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22068v1"
+    },
+    {
+      "paperTitle": "DELE-w0.5: Inferring Action from Future Latent State for Robotic Manipulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22067v3"
+    },
+    {
+      "paperTitle": "ADMIL: Attention-Distilled Multiple Instance Learning for Selective Foundation Model Inference in Pathology",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22066v1"
+    },
+    {
+      "paperTitle": "Discovering Dual-Origin Slow Wind from Solar Orbiter with Self-Supervised Contrastive Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22065v1"
+    },
+    {
+      "paperTitle": "From SQL Generation to Tool Selection: A Domain-Oriented Pattern for MCP Servers",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22063v1"
+    },
+    {
+      "paperTitle": "Search Broadly, Seek Evidence on Both Sides, Decide Narrowly: Evidence-Admissible GraphRAG for Longitudinal Clinical Event Verification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22062v1"
+    },
+    {
+      "paperTitle": "MEMORY Wins All: Indirect Bias Injection Attacks via Social Media Feeds",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22061v1"
+    },
+    {
+      "paperTitle": "CRS-Bench: A Reference-Relative Reliability Benchmark for Medical Image Encoders",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22059v1"
+    },
+    {
+      "paperTitle": "GenCoord: Skill-Path Commitments under Private Information",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22055v2"
+    },
+    {
+      "paperTitle": "More Accurate or More Efficient? Evaluating Locally Deployed Compact Open-Weight Language Models for Mathematical Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22048v1"
+    },
+    {
+      "paperTitle": "Multi-Agent Discovery and Resource-Aware Autonomous Exploration of Scientific Datasets",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22045v1"
+    },
+    {
+      "paperTitle": "One-Step Evolution for Long-Time Extrapolation: An Error-Bound-Informed and Prior-Guided Neural Residual Framework for Autonomous PDEs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22026v1"
+    },
+    {
+      "paperTitle": "Barycentric Fused Gromov-Wasserstein Balancing for Causal Inference under Multiple Treatments",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22024v1"
+    },
+    {
+      "paperTitle": "SPAR-Hate: Auditor-Guided Multi-Perspective Role Reasoning for Bilingual Hate Speech Parsing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22018v2"
+    },
+    {
+      "paperTitle": "DynaContext: Self-Improving Dynamic Contextualization of Optimized Prompts for Heterogeneous Parameter Extraction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.22014v1"
+    },
+    {
+      "paperTitle": "Variance Driven Exploration: A Provable and Efficient Methodology for Pure Exploration in Highly Stochastic Environments",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21995v1"
+    },
+    {
+      "paperTitle": "Redteaming Leading Arabic LLMs with ASAS",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21985v1"
+    },
+    {
+      "paperTitle": "Beyond Similarity: Heterogeneous Graph Learning for Multi-Objective Food Substitution in Charitable Food Agencies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21979v1"
+    },
+    {
+      "paperTitle": "Closed-loop AI achieves certifiable engineering design",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21976v1"
+    },
+    {
+      "paperTitle": "Repo2Skill-Evo: Repository Skills Go Stale in Silence",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21964v1"
+    },
+    {
+      "paperTitle": "NoTB: Oracle-Free Triage of LLM-Generated RTL via Cross-Model Formal Consensus",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21962v1"
+    },
+    {
+      "paperTitle": "SSDi8: Accurate and Efficient 8-bit Quantization for State Space Duality",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21952v1"
+    },
+    {
+      "paperTitle": "Bulbul: A Dataset for Dialectal Arabic Speech Recognition",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21950v1"
+    },
+    {
+      "paperTitle": "EDGE: Experience-Distillation for Guided Exploration in Agentic Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21946v2"
+    },
+    {
+      "paperTitle": "TessIndex: Capability Verified Identity System for the Agent Economy",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21942v1"
+    },
+    {
+      "paperTitle": "Multimodal Prompt Learning with Irregular EHRs for Robust Monitoring of Critical Care Patients",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21941v1"
+    },
+    {
+      "paperTitle": "GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21928v1"
+    },
+    {
+      "paperTitle": "Bi-EZP: LLM-Guided Bilevel Program Evolution for Ensemble Zero-Cost Proxy Discovery",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21927v1"
+    },
+    {
+      "paperTitle": "ESCRAG-R1: Retrieval-Augmented Reinforcement Learning for Emotional Support Conversation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21925v1"
+    },
+    {
+      "paperTitle": "Consistency Is Not Coherence: Orientation Search for Certified Alignments Between 4D Defence Upper Ontologies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21914v1"
+    },
+    {
+      "paperTitle": "Training Needs Trustworthy Worlds: Verified Synthetic Web Environments for Agent Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21898v1"
+    },
+    {
+      "paperTitle": "From Solver Feedback to Faithful Plans: Multi-Role Reinforcement Learning for Symbolic Planning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21897v1"
+    },
+    {
+      "paperTitle": "Breaking the Assumptions: Auditing Input-Side Jailbreak Defenses Against Semantic Attacks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21895v1"
+    },
+    {
+      "paperTitle": "A Scalable Vector Graphics Latent Space",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21893v1"
+    },
+    {
+      "paperTitle": "Pruned Traffic Trees: Native Semantic Compression with a Protocol-Structured Model Family for Encrypted Traffic Classification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21874v1"
+    },
+    {
+      "paperTitle": "GuardPaint:SpeculativeSafetyDecodingforText-to-ImageGeneration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21869v1"
+    },
+    {
+      "paperTitle": "HiMA-MDD: A Hierarchical Multi-Agent Harness for Interpretable Multimodal Depression Detection in Clinical Interviews",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21868v1"
+    },
+    {
+      "paperTitle": "MemGuard: Persisting Verifier Signals for LLM-Agent Memory Governance",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21867v1"
+    },
+    {
+      "paperTitle": "BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21864v1"
+    },
+    {
+      "paperTitle": "HiDiffTIR: Hierarchical Difficulty-Aware Policy Optimization for Multi-Turn Tool-Integrated Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21863v1"
+    },
+    {
+      "paperTitle": "ChainPrune: Evaluating and Reducing Redundancy in Long Chain-of-Thought Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21860v1"
+    },
+    {
+      "paperTitle": "LLMs are Few-Shot Decision-Makers: Generalized Context-Aware Microgrid Frequency Control through Prompt Decision Transformer",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21858v1"
+    },
+    {
+      "paperTitle": "AI Watchdog: Agent Interfaces for Detecting and Defending Against Manipulative Dark Patterns in AI Conversations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21841v1"
+    },
+    {
+      "paperTitle": "Identifying Latent Declarative Representations of Code for Assisting Repository Migration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23619v1"
+    },
+    {
+      "paperTitle": "LLM4LLM: Bridging Kernel Benchmarks and Real Deployment via Closed-Loop Agentic Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21836v1"
+    },
+    {
+      "paperTitle": "GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21833v1"
+    },
+    {
+      "paperTitle": "Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21830v1"
+    },
+    {
+      "paperTitle": "Training a Knowledge Base: Supervised Structure Learning for Agent-Curated Document Stores",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21829v2"
+    },
+    {
+      "paperTitle": "VisAdj: Learning Adjacency Matrices from Node-Link Images",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21825v1"
+    },
+    {
+      "paperTitle": "PatchGate: Narrowing the Verbalization Gap with Intrinsic Object Inventories in Frozen Vision-Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21819v1"
+    },
+    {
+      "paperTitle": "Hints, Critics, and Teachers: Prior Injection for Sparse-Reward RL in Vision-Language Math Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21811v1"
+    },
+    {
+      "paperTitle": "More Computational Resources Do Not Ensure Higher Scholarly Impact: Evidence from Leading NLP Conference Papers",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21806v1"
+    },
+    {
+      "paperTitle": "ExplainGuard: A Zero Trust Framework for Post-Hoc Explanation Integrity Guarantees in Blackbox XAI Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21803v1"
+    },
+    {
+      "paperTitle": "SAFE-G: Structure-aware Faithful Evidence-guided Generation for Knowledge-based Visual Question Answering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21796v1"
+    },
+    {
+      "paperTitle": "Lexical Coupling in GUI Element Grounding: Sentence Embeddings Track Labels across Mobile and Web",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21794v1"
+    },
+    {
+      "paperTitle": "HIRA: A Human-in-the-Loop Retrieval-Augmented Cascade for Document Classification in Regulated Industries",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21792v1"
+    },
+    {
+      "paperTitle": "Physics-Knowledge-Guided Hybrid Neural Learning for Arctic Sea Ice Concentration Evolution and Short-Range Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21767v1"
+    },
+    {
+      "paperTitle": "Evaluation Awareness in Language Models: Representation, Verbalization, and Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21766v1"
+    },
+    {
+      "paperTitle": "LiteEvent-AE: Lightweight Autoencoder for Event-Based Vision on Low-Latency Energy-Constrained Edge Devices",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21764v1"
+    },
+    {
+      "paperTitle": "What Does CLIP Learn for Regional Geolocalization? Probing Visual Cues and Scene Configuration After Adaptation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21761v1"
+    },
+    {
+      "paperTitle": "ECHO: A Cognitively Inspired, Auditable Memory Plane for Long-Horizon Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21755v1"
+    },
+    {
+      "paperTitle": "Architecture as Capability Equalizer for Coding Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21747v1"
+    },
+    {
+      "paperTitle": "Reinforcement Learning on Benign Facts Amplifies Leakage of Memorized Private Data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21727v2"
+    },
+    {
+      "paperTitle": "Ask or Answer: A Decision Framework for Multi-Turn Health Misinformation Intervention",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21721v1"
+    },
+    {
+      "paperTitle": "Rebuild Dossier: Mechanically-Enforced Specs for Agentic App Rebuilds, and What Model-Tier Failures Reveal",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23616v2"
+    },
+    {
+      "paperTitle": "ATHENA: Knowledge-guided agentic neural architecture search for AutoFormer-based electronic health record modeling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21712v2"
+    },
+    {
+      "paperTitle": "From Association to Causation: Improving Retrieval Precision of Retrieval-Augmented Generation via Causal Relations and an Attention Mechanism",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21702v1"
+    },
+    {
+      "paperTitle": "Scalable quantum simulation of continuous-time generative models via tensor networks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21700v1"
+    },
+    {
+      "paperTitle": "Context as an Environment: Programmatic Context Management for Long-Horizon Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21690v1"
+    },
+    {
+      "paperTitle": "Read, Write, Relax: Why Neural PDE Surrogates Need Both Global and Local Processing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21677v1"
+    },
+    {
+      "paperTitle": "SynEHR: Joint Modeling Inter-visit Temporal Evolution and Intra-visit Clinical Structure for Longitudinal EHR Synthesis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21673v1"
+    },
+    {
+      "paperTitle": "From Mastery Profile to Simulated Response: Stochastic Student Knowledge Graphs (SSKG) for Faithful LLM Student Simulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21668v1"
+    },
+    {
+      "paperTitle": "Measuring Activation Control in Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21664v1"
+    },
+    {
+      "paperTitle": "Why This, Not That? Mining User Profiles for Pair-wise Counterfactuals",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21662v1"
+    },
+    {
+      "paperTitle": "Power-Performance Characterization of TinyML Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21646v1"
+    },
+    {
+      "paperTitle": "SAEM: Stage-Aware Expert Management for Memory-Efficient MoE Inference in Chain-of-Thought Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21614v1"
+    },
+    {
+      "paperTitle": "Semantic Compression Trees: Multi-Resolution Knowledge Retrieval via Hierarchical Semantic Residuals",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21610v1"
+    },
+    {
+      "paperTitle": "Generate in the Chart, Not on the Boundary: Function-Symbol Grounding for Hard Constraints in LTN-GANs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21605v1"
+    },
+    {
+      "paperTitle": "K-Bench: measuring model performance on real scientific agent requests",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21601v1"
+    },
+    {
+      "paperTitle": "Data-Driven Dynamic Algorithm Dispatch with Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21584v1"
+    },
+    {
+      "paperTitle": "Robust Lightweight Deep Learning Models for Oral Cancer Screening",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21583v1"
+    },
+    {
+      "paperTitle": "Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21577v1"
+    },
+    {
+      "paperTitle": "A Reproducible, License-Aware Distillation Recipe for CPUDeployable Safety Classification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21570v1"
+    },
+    {
+      "paperTitle": "Quantifying geographic domain shift to decouple the geospatial transferability of human mobility flow generation models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21567v2"
+    },
+    {
+      "paperTitle": "Automating Multi-Hop RAG Evaluation via TRIAD: From Context Extraction to Validated Dataset Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21558v1"
+    },
+    {
+      "paperTitle": "Forgotten in Weights, Recovered by Tools: Agentic Tool Unlearning for LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21544v1"
+    },
+    {
+      "paperTitle": "presto: Efficient, Training-free, and Open-world Object Placement via Imaginary Search",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21543v1"
+    },
+    {
+      "paperTitle": "Primal Acceleration of Newton's Method",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21359v1"
+    },
+    {
+      "paperTitle": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21357v1"
+    },
+    {
+      "paperTitle": "AI with Authority, from Application to Silicon",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21356v2"
+    },
+    {
+      "paperTitle": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21343v1"
+    },
+    {
+      "paperTitle": "REFINE: A Multi-Agent LLM Approach for Evidence-Guided Code Refactoring",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.23611v1"
+    },
+    {
+      "paperTitle": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21332v1"
+    },
+    {
+      "paperTitle": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21319v1"
+    },
+    {
+      "paperTitle": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21317v1"
+    },
+    {
+      "paperTitle": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21305v1"
+    },
+    {
+      "paperTitle": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21292v1"
+    },
+    {
+      "paperTitle": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21278v1"
+    },
+    {
+      "paperTitle": "Let Credit Follow Computation: Architecture-Aware Credit Transport for Large Language Model Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21501v1"
+    },
+    {
+      "paperTitle": "SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21500v1"
+    },
+    {
+      "paperTitle": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21252v1"
+    },
+    {
+      "paperTitle": "Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21243v1"
+    },
+    {
+      "paperTitle": "Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21233v1"
+    },
+    {
+      "paperTitle": "Selection of Heart Sound Segments for Synchronous Classification of Multi-channel Heart Sounds",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21499v1"
+    },
+    {
+      "paperTitle": "Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21230v1"
+    },
+    {
+      "paperTitle": "Ontology-supported AI Model and Dataset Management",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21224v1"
+    },
+    {
+      "paperTitle": "Enhancing LLMs in Predictive Political QA with Semi-Structured Data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21218v1"
+    },
+    {
+      "paperTitle": "Personalized Privacy Control in LLMs via Attention Head Intervention",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21209v1"
+    },
+    {
+      "paperTitle": "Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21208v1"
+    },
+    {
+      "paperTitle": "Curriculum-Aware Interpolate-then-Refine: Learned Physiological Time-Series Imputation under Realistic Missingness",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21207v1"
+    },
+    {
+      "paperTitle": "No PUN Intended: Plausible Unknown Names for Person-Centred LLM Evaluation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21206v1"
+    },
+    {
+      "paperTitle": "SENTRY: Deterministic, Intelligent Risk Assessment for IT Change Management",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21203v1"
+    },
+    {
+      "paperTitle": "Towards Investigating Residual Hearing Loss: Quantification of Fibrosis in a Novel Cochlear OCT Dataset",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21189v1"
+    },
+    {
+      "paperTitle": "Anchored Regularized Direct Least Squares (ARDLS): Integrating Established Prioritization Operators for Priority Elicitation in the Analytic Hierarchy Process",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21187v1"
+    },
+    {
+      "paperTitle": "DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21176v1"
+    },
+    {
+      "paperTitle": "SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21175v1"
+    },
+    {
+      "paperTitle": "From Attention Masks to Inert Zero-Vector Tokens: OAttention and O-Closure for Token Dynamics",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21174v1"
+    },
+    {
+      "paperTitle": "Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21170v2"
+    },
+    {
+      "paperTitle": "AID-Guard: Stateful Authorization for Delegated Agent Effects",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21159v1"
+    },
+    {
+      "paperTitle": "HIERA: Workload-Aware Planning Across Implementation Spaces for GPU Kernel Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21157v1"
+    },
+    {
+      "paperTitle": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21156v2"
+    },
+    {
+      "paperTitle": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21140v1"
+    },
+    {
+      "paperTitle": "Root cause analysis via difference graph discovery from linear time-series data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21117v1"
+    },
+    {
+      "paperTitle": "CIVA: Critic-Induced Value-Subspace Attacks on Visual World-Model Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21114v2"
+    },
+    {
+      "paperTitle": "Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21107v1"
+    },
+    {
+      "paperTitle": "Atom Learning Model (ALM): how a real classroom got tokenised",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21106v2"
+    },
+    {
+      "paperTitle": "ClawSentry: A Progressive Multi-Tier Security Monitor for Safeguarding Autonomous LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21101v1"
+    },
+    {
+      "paperTitle": "ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21100v1"
+    },
+    {
+      "paperTitle": "A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21099v1"
+    },
+    {
+      "paperTitle": "When Trust Meets Truth: Trust-Truth Separability in LLM-as-Judge",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21097v1"
+    },
+    {
+      "paperTitle": "Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21095v1"
+    },
+    {
+      "paperTitle": "Can Legal AI Know When It Is Wrong? And Do Students Know When It Is?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21089v1"
+    },
+    {
+      "paperTitle": "PromptResponse: Optimizing Prompts for LLM Coding Tasks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21074v1"
+    },
+    {
+      "paperTitle": "TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21070v1"
+    },
+    {
+      "paperTitle": "AT-ViT: Area-Targeted Multi-View Vision Transformer with Cross-Attention and Multi-Scale Patching for Plant Trait Recognition in Herbarium Images",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21067v2"
+    },
+    {
+      "paperTitle": "CellPath-Bench: A Multidimensional Benchmark for Whole-Slide Cellular Representations in Pathology Foundation Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21060v1"
+    },
+    {
+      "paperTitle": "The Cost of a Physics Prior Is Bounded by the Ablation Gap",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21059v1"
+    },
+    {
+      "paperTitle": "CoAnchor: Robust Collaborative Perception under Spatio-Temporal Misalignment via Object-Level Anchors",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21055v1"
+    },
+    {
+      "paperTitle": "KAN-Robust-Bench: A Benchmark for Evaluating the Robustness of Kolmogorov-Arnold Networks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21488v1"
+    },
+    {
+      "paperTitle": "$Z^2$-ACT: End-to-End Verifiable Agentic Intent Control for Open 6G RAN",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21049v1"
+    },
+    {
+      "paperTitle": "Socialized Division and Collaboration: Rethinking Class-Incremental Learning under Optimization Conflicts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21044v1"
+    },
+    {
+      "paperTitle": "CoST: Semantic-Aware Urban Understanding via Spatial-Temporal Alignment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21041v1"
+    },
+    {
+      "paperTitle": "Evaluating Large Language Model Performance on International Maritime Dangerous Goods Code Compliance",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21036v1"
+    },
+    {
+      "paperTitle": "Don't Solve, Just Compare: Tiny Advisors for Runtime Intervention in LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21027v1"
+    },
+    {
+      "paperTitle": "Free-Text Evaluation of LLMs for 5G Domain Knowledge and Fault Analysis using LLM-as-Judge",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21021v1"
+    },
+    {
+      "paperTitle": "Target-Aware Calibration Data Selection for Preserving Uncertainty in Quantized Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21019v1"
+    },
+    {
+      "paperTitle": "Jacobian-guided Noise Injection for Quantization Robustness in Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20988v1"
+    },
+    {
+      "paperTitle": "Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20975v1"
+    },
+    {
+      "paperTitle": "WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20974v1"
+    },
+    {
+      "paperTitle": "Deep Learning Models Also Recall Features",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20970v1"
+    },
+    {
+      "paperTitle": "Generalizing Soft Tissue Deformation and Force Prediction Across Material Stiffness and Geometry",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20967v1"
+    },
+    {
+      "paperTitle": "Structured but Fragile: On the Limits of LLMs in Cybersecurity Decision-Making",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20966v1"
+    },
+    {
+      "paperTitle": "Extractive Summarization for Arabic Documents Using SAraBERT with a Semantic Siamese Similarity Evaluation Metric",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20964v1"
+    },
+    {
+      "paperTitle": "Vibe Coding and Web Application Security: A Twin-Prompt Study",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20963v1"
+    },
+    {
+      "paperTitle": "TreeWY: Speculative Verification for Gated DeltaNet Hybrids",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20961v1"
+    },
+    {
+      "paperTitle": "Can Scientific Claims Be Removed from Large Language Models? A Systematic Evaluation of Claim-Level Unlearning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20960v1"
+    },
+    {
+      "paperTitle": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20958v1"
+    },
+    {
+      "paperTitle": "Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20953v1"
+    },
+    {
+      "paperTitle": "Neural-Primitive: An Efficient End-to-end Local Planner with Primitive-based Imitation Learning for Autonomous Flight",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20948v1"
+    },
+    {
+      "paperTitle": "The Logic of Machine Self-Preservation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20940v1"
+    },
+    {
+      "paperTitle": "No Judgment Without a Reason: Counterfactual Receipts for Versioned AI Evaluators",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20938v1"
+    },
+    {
+      "paperTitle": "Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20936v1"
+    },
+    {
+      "paperTitle": "MentorPulse: Refreshing Cross-Model Latent Guidance for Long-Form Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20927v1"
+    },
+    {
+      "paperTitle": "Reliability- and Anatomy-Consistency-Aware Multimodal Learning for Robust Fracture Classification from Bangladeshi Radiographs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21482v1"
+    },
+    {
+      "paperTitle": "Source-Free MT Evaluation Is Not MT Evaluation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20925v1"
+    },
+    {
+      "paperTitle": "UpgradeBench: A Decision-Centric Benchmark for Upgrading Fine-Tuned LLM Specialists",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20918v1"
+    },
+    {
+      "paperTitle": "Explainable Deepfake Detection with Feature-robust Augmentation and Evidence-grounded Explanation Optimization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20913v1"
+    },
+    {
+      "paperTitle": "KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20887v1"
+    },
+    {
+      "paperTitle": "ReCurveflow: A Flow Matching Framework that Learns Curved Reaction Trajectories to Predict Transition State Geometries",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20869v1"
+    },
+    {
+      "paperTitle": "Coverage-Driven Verification for Safety-by-Design in AI-Based Collision Avoidance Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20864v1"
+    },
+    {
+      "paperTitle": "MGAL: A Multilingual Granularity-Aware Long-Context Benchmark",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20853v1"
+    },
+    {
+      "paperTitle": "BC-Bench: Evaluating Agentic Engineering in a Domain-Specific Language for ERP",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20851v1"
+    },
+    {
+      "paperTitle": "RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20845v1"
+    },
+    {
+      "paperTitle": "TRACE: Agentic Catalog Enrichment with Multi-source Evidence Grounding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20844v1"
+    },
+    {
+      "paperTitle": "Foundation Models for Partial Causal Identification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20841v1"
+    },
+    {
+      "paperTitle": "Advantage-level Aggregation Reinforcement Learning for X-point Target Magnetic Configuration Control in an EXL-50U Experiment-Calibrated Simulation Environment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20834v1"
+    },
+    {
+      "paperTitle": "STAR-OPD: Structured Aspect-Cascade-Aware On-Policy Reward Distillation for ABSA Quadruple Extraction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20831v1"
+    },
+    {
+      "paperTitle": "Prediction certification cannot replace explanation certification: a competence envelope for trustworthy AI under compound stress",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20825v1"
+    },
+    {
+      "paperTitle": "Certified Multi-Turn Robustness for LLM Safety via Compositional Bounds and Safety Persistence",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20820v1"
+    },
+    {
+      "paperTitle": "Scaling Muon for Diffusion Transformers",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20818v3"
+    },
+    {
+      "paperTitle": "When Generated Images Look Right and Retrieve Wrong: Coverage-Guided Cross-Scale Re-Indexing for Knowledge-Faithful Generative Perception",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20810v1"
+    },
+    {
+      "paperTitle": "TRACE: Training-time Report-guided and Clinically Ordered Concept Editing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20809v1"
+    },
+    {
+      "paperTitle": "Neuro-Geospatial Modelling of EEG Affective States Using Literature-Informed Environmental Context",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20807v1"
+    },
+    {
+      "paperTitle": "Denoising the Future: Context-Aware Spectral Diffusion for Temporal Knowledge Graph Extrapolation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20804v2"
+    },
+    {
+      "paperTitle": "SPARC: Single-Pass Scaling for Motion Forecasting with Conformal Bayesian Last Layers",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20802v1"
+    },
+    {
+      "paperTitle": "Profiling What Matters: Context-Aware Item Profiles from Large-Scale Metadata for LLM Recommenders",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20801v1"
+    },
+    {
+      "paperTitle": "Dynamic Context Scheduling: Learning Beyond the Static Universe",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20799v1"
+    },
+    {
+      "paperTitle": "Automated Trajectory Evaluation for Mobile Agents via Step-Level Consequence Reasoning and Aggregation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20797v1"
+    },
+    {
+      "paperTitle": "Knowing but Not Saying: Preventing Factual Access Failures in LLM SFT via Recall-Anchored Distillation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20794v1"
+    },
+    {
+      "paperTitle": "CertVLA: Certified Defense against Physical Visual Attacks for Vision-Language-Action Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20791v1"
+    },
+    {
+      "paperTitle": "Structure for Reading, Prose for Writing: Asymmetric Structural Conditioning in Multi-Agent Document Authoring",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20786v1"
+    },
+    {
+      "paperTitle": "CAS: Conformalized Agentic Search via Adaptive Retrieval and Policy Weighting",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20771v1"
+    },
+    {
+      "paperTitle": "Do SpeechLMs Hear Their Own Opinions? Diagnosing and Mitigating Previous-Belief Contamination in Streaming Emotion Understanding",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20769v1"
+    },
+    {
+      "paperTitle": "Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20768v2"
+    },
+    {
+      "paperTitle": "CARD: Diagnosing Belief to Action Routing Failures in Vision Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20763v1"
+    },
+    {
+      "paperTitle": "Fuzzy-MoE: Interpretable Regime-Conditioned Expert Routing for Non-Stationary Multivariate Time Series Forecasting",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20761v1"
+    },
+    {
+      "paperTitle": "PSK at WMT 2026 MIST: Task-Specialized QLoRA Adapters for Multilingual Summarization and Question Answering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20757v1"
+    },
+    {
+      "paperTitle": "Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20756v1"
+    },
+    {
+      "paperTitle": "Natural-Language-Guided Generator-Agnostic Shortlisting for Protein Binder Design",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20755v1"
+    },
+    {
+      "paperTitle": "Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20743v1"
+    },
+    {
+      "paperTitle": "Continuous-Time Quantum Walks based Graph Neural Network",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20738v1"
+    },
+    {
+      "paperTitle": "ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20735v2"
+    },
+    {
+      "paperTitle": "Calibrating Criterion Revision in LLM Agents: Failure Modes and a Trace-Anchored Protocol",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20729v1"
+    },
+    {
+      "paperTitle": "DirEAG: Dirichlet Evidence Aggregation for Calibrating Verbalized Confidence in Mathematical Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20717v1"
+    },
+    {
+      "paperTitle": "Identity-Aware Human-Object Interaction Motion Captioning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20690v1"
+    },
+    {
+      "paperTitle": "VortexChat: An agentic framework for autonomous multi-objective integrated photonic design",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20688v1"
+    },
+    {
+      "paperTitle": "CDRL: Certification-Driven Reinforcement Learning for Neutrino Flavor Model Discovery",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20686v1"
+    },
+    {
+      "paperTitle": "Temporal Validity on Real Software Histories: Eliminating Stale-Fact Errors in Code-Assistant Memory over GitHub Fixes",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20685v1"
+    },
+    {
+      "paperTitle": "Why2Speak: Faithful Reasoning for Abstaining Action Policies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20670v1"
+    },
+    {
+      "paperTitle": "Lightweight Adaptive ReduNet via Hyperspherical Manifold Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20668v1"
+    },
+    {
+      "paperTitle": "C-Score: Beyond Accuracy for Robustness Assessment in Semi-Supervised Learning under Open-World Unlabeled Contamination",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20667v1"
+    },
+    {
+      "paperTitle": "Amplifying the imaging power of digital sky surveys with space telescopes data and generative AI",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20666v1"
+    },
+    {
+      "paperTitle": "DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20664v1"
+    },
+    {
+      "paperTitle": "Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20661v1"
+    },
+    {
+      "paperTitle": "RiskTraf: Risk-Extrapolated Residual Learning for Multi-Variate Traffic Flow Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20656v1"
+    },
+    {
+      "paperTitle": "Beyond Effectiveness: A Multi-Criteria Framework for Comparing Practical Socio-Technical Interventions",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20649v1"
+    },
+    {
+      "paperTitle": "Complexity Induction: Compositional Generalization via Structured Label Distortion",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21464v1"
+    },
+    {
+      "paperTitle": "One Hierarchy, Two Systems: Semantic Product IDs for Discovery-Surface Ranking and Search-Page Query Reformulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20640v1"
+    },
+    {
+      "paperTitle": "Provable Edge-of-Stability for Adam on a One-Dimensional Quadratic",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20638v1"
+    },
+    {
+      "paperTitle": "ARQ: Agentic CodeQL Query Refinement for C/C++ Vulnerability Detection",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20637v1"
+    },
+    {
+      "paperTitle": "AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20634v1"
+    },
+    {
+      "paperTitle": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20631v1"
+    },
+    {
+      "paperTitle": "SAGE: A Unified Algebra and Self-Adaptive Execution for AI Functions in SQL",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20630v1"
+    },
+    {
+      "paperTitle": "Enhanced Artificial Neural Networks Using QHAdamW in Air Quality Forecasting",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21463v1"
+    },
+    {
+      "paperTitle": "When Failures Propagate: Causal Failure Attribution in Agentic Retrieval-Augmented Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20627v1"
+    },
+    {
+      "paperTitle": "Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20622v1"
+    },
+    {
+      "paperTitle": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20617v1"
+    },
+    {
+      "paperTitle": "Evaluating Skills, Not Just Agents: Agentic Continuous Evaluation of Skills",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20614v1"
+    },
+    {
+      "paperTitle": "Difficulty-Aware Semantic-ID Optimization for Generative Recommendation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20611v1"
+    },
+    {
+      "paperTitle": "JuryProbe: An Empirical Consensus-Risk Diagnostic for Routing Reference-Free Factuality Judge Panels to Grounded Verification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20607v1"
+    },
+    {
+      "paperTitle": "Testing and Evaluation of Agentic AI Systems In Military Command and Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20597v1"
+    },
+    {
+      "paperTitle": "Aggregate, Don't Adapt: Subject-Level Posterior Aggregation and Transductive Calibration for Cross-Site Parkinsonian Gait Severity",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20587v1"
+    },
+    {
+      "paperTitle": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20574v1"
+    },
+    {
+      "paperTitle": "Open-Weight Masked Introspection: Measuring What Language Models Can Report About Their Own Computation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20569v1"
+    },
+    {
+      "paperTitle": "Consilience: Conformally Calibrated Communication Control for Hidden-Profile Multi-Agent Reasoning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20564v1"
+    },
+    {
+      "paperTitle": "Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20563v1"
+    },
+    {
+      "paperTitle": "Consistency Models for Fast MRI Reconstruction Using Regularization by Denoising",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20561v1"
+    },
+    {
+      "paperTitle": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20549v1"
+    },
+    {
+      "paperTitle": "ExploraTwin, a Non-Profit Research Platform for Digital Twin Simulations",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20539v2"
+    },
+    {
+      "paperTitle": "CyrillicQA: The Influence of Phonetically Encoded Secret Language on LLM Performance",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21462v1"
+    },
+    {
+      "paperTitle": "Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20521v1"
+    },
+    {
+      "paperTitle": "An integrated diffusion-weighted imaging processing and interpretation platform for MR-guided radiotherapy",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20519v1"
+    },
+    {
+      "paperTitle": "FL-MAESTRO: Multi-Agent LLM Orchestration for Resource-Constrained Federated Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20518v1"
+    },
+    {
+      "paperTitle": "Making Deployments Safe at Meta: Health Checks for Continuous Change-Safety",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20513v1"
+    },
+    {
+      "paperTitle": "A Temporal Planning Approach for Intelligent Flood Response",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20510v1"
+    },
+    {
+      "paperTitle": "Towards Traffic Modelling of Multi-Agent Systems: The Role of Coordination Topology",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20494v1"
+    },
+    {
+      "paperTitle": "Lost in Translation: How Universal Ethical Values Fail to Translate Across Global Contexts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20490v1"
+    },
+    {
+      "paperTitle": "Terminal Agents: A Survey of AI Agents in Command-Line Environments",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20485v1"
+    },
+    {
+      "paperTitle": "AEGIS: Preventing Cross-Domain Resource Abuse in MCP",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20481v1"
+    },
+    {
+      "paperTitle": "STCO: Conditional Neural Operators for Time-Dependent PDEs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20477v1"
+    },
+    {
+      "paperTitle": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20331v1"
+    },
+    {
+      "paperTitle": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20320v1"
+    },
+    {
+      "paperTitle": "Inducing Task Models from Computer-Use Traces",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20319v1"
+    },
+    {
+      "paperTitle": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20318v1"
+    },
+    {
+      "paperTitle": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20316v2"
+    },
+    {
+      "paperTitle": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20314v1"
+    },
+    {
+      "paperTitle": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20290v1"
+    },
+    {
+      "paperTitle": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20281v1"
+    },
+    {
+      "paperTitle": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20274v1"
+    },
+    {
+      "paperTitle": "FigmaTrace: Capturing Creative Nuances in Human Figma Design Workflows",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.21460v1"
+    },
+    {
+      "paperTitle": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20256v2"
+    },
+    {
+      "paperTitle": "QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20240v1"
+    },
+    {
+      "paperTitle": "Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20237v1"
+    },
+    {
+      "paperTitle": "Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20231v1"
+    },
+    {
+      "paperTitle": "Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20229v1"
+    },
+    {
+      "paperTitle": "InsufficiencyBench: Evaluating LLM legal advice on underspecified user queries",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20220v1"
+    },
+    {
+      "paperTitle": "Electronic Navigational Chart Change Classification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20218v1"
+    },
+    {
+      "paperTitle": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20210v1"
+    },
+    {
+      "paperTitle": "ContractScrub: A benchmark for final review of legal contracts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20204v1"
+    },
+    {
+      "paperTitle": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20202v1"
+    },
+    {
+      "paperTitle": "The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20201v1"
+    },
+    {
+      "paperTitle": "From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20195v1"
+    },
+    {
+      "paperTitle": "Multi-Method Causal Evidence Synthesis: Ranking Candidate Drivers by Convergent Cross-Method Evidence from Observational Data",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20187v1"
+    },
+    {
+      "paperTitle": "Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20169v2"
+    },
+    {
+      "paperTitle": "DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20161v1"
+    },
+    {
+      "paperTitle": "DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20114v2"
+    },
+    {
+      "paperTitle": "Structured Affinity for Unsupervised Visual Class-Incremental Memory in Deep Artificial Immune Networks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20104v1"
+    },
+    {
+      "paperTitle": "Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20087v1"
+    },
+    {
+      "paperTitle": "Evidence-Gated Task and Motion Planning with Vision-Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20084v1"
+    },
+    {
+      "paperTitle": "SABET-QA: Temporal Knowledge Graph Question Answering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20083v1"
+    },
+    {
+      "paperTitle": "Decision Tree and K-Means Analysis of Raman Spectra for Edible Oils: A Physics-Informed AI Approach",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20440v1"
+    },
+    {
+      "paperTitle": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20061v1"
+    },
+    {
+      "paperTitle": "EchoCoT: Extracting Hidden Chain-of-Thought from Large Reasoning Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20055v1"
+    },
+    {
+      "paperTitle": "What You Can't See Is What You Learn: Slot-Selective Evidence Masking Favors Compositional Generalization in Shared-Genome Language-Model Societies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20054v3"
+    },
+    {
+      "paperTitle": "On the Applicability of Safety Nets: A Safety-By-Design Solution for Certifying Neural Networks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20053v1"
+    },
+    {
+      "paperTitle": "A three-dimensional typology of agency for advanced AI systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20041v1"
+    },
+    {
+      "paperTitle": "An Inclusive and Lightweight Approach to Federated Continual Learning for Cultural Heritage",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20038v1"
+    },
+    {
+      "paperTitle": "Contrastive Mixed Prompt Learning for Incomplete Multimodal Sentiment Analysis with Unseen Modality Combination",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20019v1"
+    },
+    {
+      "paperTitle": "Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20011v1"
+    },
+    {
+      "paperTitle": "ExPhy: A Benchmark for Explicit Physical Property Learning in Multi-Object Trajectory Forecasting",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20009v2"
+    },
+    {
+      "paperTitle": "Optimal Skill Selection for LLM Agents with Provable Bicriteria Guarantees",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19993v1"
+    },
+    {
+      "paperTitle": "ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19974v1"
+    },
+    {
+      "paperTitle": "Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19973v1"
+    },
+    {
+      "paperTitle": "Rethinking Patch Based Multivariate Time Series Forecasting with Semantic Structured Partitioning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19966v1"
+    },
+    {
+      "paperTitle": "Learning Early-to-Final Solution Consistency for MILP Acceleration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19953v1"
+    },
+    {
+      "paperTitle": "Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19950v1"
+    },
+    {
+      "paperTitle": "Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20438v1"
+    },
+    {
+      "paperTitle": "Towards Quantifying Benchmark Optimization in ASR Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19936v1"
+    },
+    {
+      "paperTitle": "A Strong Linear Baseline for Whole-Heart Cardiac Shape Completion on CT, with an Open Eleven-Structure Statistical Shape Model",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19932v1"
+    },
+    {
+      "paperTitle": "Spike-based Belief Propagation in Nonlinear Dynamical Systems",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19907v1"
+    },
+    {
+      "paperTitle": "Bringing analytic rigor to agentic AI for science: The Brain Researcher platform for neuroimaging data analysis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19902v1"
+    },
+    {
+      "paperTitle": "MaliciousSkillBench: A Comprehensive Benchmark for Malicious Agent Skill Detection",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19901v1"
+    },
+    {
+      "paperTitle": "Interrupting the Loop: Periodic Subject Changes Raise Judged Surprise and Connection in Base Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19893v1"
+    },
+    {
+      "paperTitle": "EXIMO: VLM Guided Exploration of VLA Policies",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19891v1"
+    },
+    {
+      "paperTitle": "Write Once, Run Everywhere: The Axon DSL for Shape-Safe and Framework-Agnostic LLM Architectures",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19889v1"
+    },
+    {
+      "paperTitle": "Evidence Before Expansion: Reuse, Spawn, or Defer in Lifelong Expert Pools",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19888v1"
+    },
+    {
+      "paperTitle": "Separating Covariate Shift from Mechanism Change with Two Discriminators: CJSD, a Conditional Discrepancy with an Exact Covariate-Concept Decomposition",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19885v2"
+    },
+    {
+      "paperTitle": "TESTNAV: Pareto-Guided Search for Compositional Robustness Testing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19882v1"
+    },
+    {
+      "paperTitle": "EnvHarness: Awakening Static Worlds for Agent Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19880v1"
+    },
+    {
+      "paperTitle": "A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19875v1"
+    },
+    {
+      "paperTitle": "Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19863v1"
+    },
+    {
+      "paperTitle": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19861v1"
+    },
+    {
+      "paperTitle": "Repo0: Design-Driven Zero-to-All Code Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19854v1"
+    },
+    {
+      "paperTitle": "SAPO: Single-Rollout Autoregressive Policy Optimization for Agentic Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19842v1"
+    },
+    {
+      "paperTitle": "Specification-delta-driven data governance: an empirical study of the «spec-delta» as the unit of change in lakehouse data platforms",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19838v1"
+    },
+    {
+      "paperTitle": "Adaptive Probabilistic Shielding by Learning MDPs for Safe Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19836v1"
+    },
+    {
+      "paperTitle": "Causal Reasoning with Bipartite Graphical Causal Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19831v1"
+    },
+    {
+      "paperTitle": "Core-KAN: Continuous Vision Kernels with Kolmogorov-Arnold Networks",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19817v1"
+    },
+    {
+      "paperTitle": "When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19812v1"
+    },
+    {
+      "paperTitle": "ADAPT: Physics-Aware Diffusion-based World Models for Adaptive Predictive Transferable HVAC Control",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19804v1"
+    },
+    {
+      "paperTitle": "MileGPO: Milestone Inference with Local Evidence for Graph-Based Policy Optimization of Long-Horizon LLM Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19803v2"
+    },
+    {
+      "paperTitle": "Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19794v1"
+    },
+    {
+      "paperTitle": "LLMs as Acquisition Policies for Finite-Pool Materials Optimization: A Controlled Study",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19790v1"
+    },
+    {
+      "paperTitle": "TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19789v1"
+    },
+    {
+      "paperTitle": "An Irreducible Quantum Advantage in Aligning World Models with Reality",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19779v1"
+    },
+    {
+      "paperTitle": "Distilling Aggregate Mobility Statistics into a Language Model Policy for Post-Event Crowd Simulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19778v1"
+    },
+    {
+      "paperTitle": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19776v2"
+    },
+    {
+      "paperTitle": "Finite-Horizon Input-Output Dynamics of Minibatch Perturbations in AdamW",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19762v1"
+    },
+    {
+      "paperTitle": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19760v2"
+    },
+    {
+      "paperTitle": "GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19759v1"
+    },
+    {
+      "paperTitle": "GenMatch: An End-to-End Generative Matching Framework for Micro-View Order-Dispatching in Ride-Hailing",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19751v1"
+    },
+    {
+      "paperTitle": "Truncate Bad, Upweight Good: BoN-Style Distillation via Rank-Based Classification",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19748v1"
+    },
+    {
+      "paperTitle": "Question-Guided Evidence Acquisition for Multimodal Visual Question Answering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19739v2"
+    },
+    {
+      "paperTitle": "Learning to Beat: Phenotype-Guided Latent Flow with Regional Motion Priors for Biventricular Motion Synthesis",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19738v2"
+    },
+    {
+      "paperTitle": "TempJail: Temporal Jailbreak Attack against Large Vision-Language Models via Subtitle Scheduling",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19737v1"
+    },
+    {
+      "paperTitle": "SafeBranch: Branch-Pair Safety Alignment for Embodied Agents",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19729v1"
+    },
+    {
+      "paperTitle": "A Locally Tokenized Generative Model for Robust Time-Series Watermarking",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19727v1"
+    },
+    {
+      "paperTitle": "Scale-Separated Conditioning for Style-Encoder-Free Diffusion Stylization",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19719v1"
+    },
+    {
+      "paperTitle": "Robust Cross-Modal Foundation Model Perception for Underwater Robots under Degraded Visual Conditions",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19710v1"
+    },
+    {
+      "paperTitle": "Loreley: Repository-Scale Program Evolution with Quality-Diversity Search",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19703v1"
+    },
+    {
+      "paperTitle": "Beyond Memory Majority: Latent-Source Reasoning for Multi-Agent Memory Arbitration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19701v1"
+    },
+    {
+      "paperTitle": "Rethinking the Evaluation and Optimization of LLM-Based Social Simulation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19689v1"
+    },
+    {
+      "paperTitle": "An LLM agent for end-to-end computational materials discovery",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20434v1"
+    },
+    {
+      "paperTitle": "Learning Hierarchical Skill Policies with Offline Quality-Diversity Reinforcement Learning",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19684v1"
+    },
+    {
+      "paperTitle": "Frequency-Aware Continual Learning for Smart Contract Vulnerability Detection with Large Language Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19680v1"
+    },
+    {
+      "paperTitle": "Escaping the Quicksand: A Call to Arms",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19674v1"
+    },
+    {
+      "paperTitle": "Can Agent Memory Systems Track Evolving State?",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19652v1"
+    },
+    {
+      "paperTitle": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19625v1"
+    },
+    {
+      "paperTitle": "Forking Fast: Efficiently Estimating Uncertainty Dynamics in Text Generation",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19611v1"
+    },
+    {
+      "paperTitle": "PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19598v1"
+    },
+    {
+      "paperTitle": "VGI-Bench: Probing Visual Intelligence in Video Generation Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19583v3"
+    },
+    {
+      "paperTitle": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19579v1"
+    },
+    {
+      "paperTitle": "ProofJudge: Tool-Grounded LLM Evaluation of Formal Proof Quality in Mathlib",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.20432v1"
+    },
+    {
+      "paperTitle": "DraftFM: A FoundationModel for Day-Zero Drafting in Magic: The Gathering",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19568v1"
+    },
+    {
+      "paperTitle": "Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19556v1"
+    },
+    {
+      "paperTitle": "CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19536v1"
+    },
+    {
+      "paperTitle": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19535v1"
+    },
+    {
+      "paperTitle": "Automated Summarization of Financial News Using Large Language Models and Retrieval-Augmented Generation: An Early Empirical Study (Fall 2023)",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19526v1"
+    },
+    {
+      "paperTitle": "In Two Minds about Lifelong Learning: Exploring Hemispheric Redundancy and Specialisation in Neural Models",
+      "paperSourceUrl": "http://arxiv.org/abs/2608.19514v1"
+    }
+  ]
+}
